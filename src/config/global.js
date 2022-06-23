@@ -127,36 +127,208 @@ export default {
   },
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: '<em>Marketing</em> digital',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Pérez, M. (2019). <em>Qué es un plan de marketing digital y cómo se hace.</em> IEBS.',
+      tipo: 'Articulo',
+      link: 'https://www.iebschool.com/blog/plan-de-marketing-digital',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: '<em>Marketing</em> digital',
+      referencia: 'Eyzaguirre, M. (s .f.). <em>Plan de marketing digital.</em>',
+      tipo: 'PDF',
+      link:
+        'https://marcoeyzaguirre.files.wordpress.com/2015/09/nestlc3a9-charla-plan-de-marketing-digital.pdf',
+    },
+    {
+      tema: 'Consumidores y segmento objetivo',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      descarga: '/downloads/prueba.pdf',
+        'IA, lab. (s.f.). <em>Segmentación de mercado. ¿Cómo funciona y cuáles son sus tipos?</em>',
+      tipo: 'Artículo',
+      link:
+        'https://www.ialab.co/blog-inbound-marketing/segmentacion-de-mercado-como-funciona-y-cuales-son-sus-tipos',
+    },
+    {
+      tema: '<em>Buyer</em> persona',
+      referencia:
+        'Wright, A. (2017). <em>What Is a Buyer Persona and Why Is It Important?</em>',
+      tipo: 'Artículo',
+      link: 'https://amywright.me/what-is-a-buyer-persona/',
+    },
+    {
+      tema: 'Concepto y construcción de propuesta comercial',
+      referencia:
+        'Da Silva, D. (2020). <em>Propuesta comercial: claves para hacer una que se destaque. </em>',
+      tipo: 'Artículo',
+      link: 'https://www.zendesk.com.mx/blog/propuesta-comercial/',
+    },
+    {
+      tema: 'Psicología del consumidor y pro-consumidor digital',
+      referencia:
+        'Betancourt, A. (s. f.). <em>¿Cómo funciona la mente del consumidor en el marketing?. </em>',
+      tipo: 'Artículo',
+      link:
+        'https://mglobalmarketing.es/blog/psicologia-del-consumidor-en-el-marketing-digital/',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: '4P',
+      significado: 'producto, precio, plaza y promoción.',
     },
     {
-      termino: '<em>Término</em>',
-      significado: 'Definición',
+      termino: 'B2B',
+      significado:
+        '<em>Business-to-Business.</em> Se refiere a transacciones, negociaciones o relaciones entre dos compañías.',
+    },
+    {
+      termino: 'B2C',
+      significado:
+        '<em>Business-to-Consumer.</em> Se refiere a transacciones, negociaciones o relaciones entre una compañía y un consumidor final.',
+    },
+    {
+      termino: '<em>Briefing</em>',
+      significado: 'resumen ejecutivo de una estrategia.',
+    },
+    {
+      termino: '<em>Buyer</em> persona',
+      significado:
+        'perfil de personaje real o no real creado a partir de la información obtenida en la segmentación.',
+    },
+    {
+      termino: 'Campañas digitales',
+      significado:
+        'campañas de mercadeo que se desarrollan dentro de entornos digitales.',
+    },
+    {
+      termino: 'Código QR',
+      significado:
+        'etiqueta ópticamente reproducible que contiene información detallada de un producto o servicio.',
+    },
+    {
+      termino: '<em>Crowdfunding</em>',
+      significado:
+        'campaña digital por medio de la cual se pretende brindar información y busca financiar un producto, servicio o iniciativa social.',
+    },
+    {
+      termino: 'DOFA',
+      significado:
+        'herramienta de estudio de las debilidades, oportunidades, fortalezas y amenazas que una compañía tiene en una situación determinada.',
+    },
+    {
+      termino: 'Eventos BTL',
+      significado:
+        '<em>Below The Line,</em> consiste en el uso de formas no masivas de comunicación que se dirigen a un público objetivo.',
+    },
+    {
+      termino: '<em>Landing pages</em>',
+      significado:
+        'página web en donde el usuario aterriza para conocer un producto, servicios, novedad o promoción.',
+    },
+    {
+      termino: '<em>Marketing</em>',
+      significado:
+        'conjunto de estrategias cuya finalidad es facilitar la venta de un producto o servicios dentro de un entorno determinado.',
+    },
+    {
+      termino: 'Necesidades del cliente',
+      significado:
+        'se definen como los factores de influencia que los impulsan a comprar un determinado producto o servicio.',
+    },
+    {
+      termino: 'Público objetivo',
+      significado:
+        'segmento de la población a la que va encaminada una estrategia de <em>marketing</em>.',
+    },
+    {
+      termino: 'Redes sociales',
+      significado:
+        'plataformas virtuales creadas en línea para que personas u organizaciones que comparten intereses en común se unan.',
+    },
+    {
+      termino: 'ROI',
+      significado: 'retorno de una inversión.',
+    },
+    {
+      termino: 'Segmentación',
+      significado:
+        'técnica para separar los clientes potenciales en diferentes grupos para poder abordar sus necesidades de manera más específica y efectiva.',
+    },
+    {
+      termino: '<em>Top of mind</em>',
+      significado:
+        'concepto que describe el pensamiento inmediato que un consumidor tiene al asociar una necesidad con un producto.',
+    },
+    {
+      termino: 'USP',
+      significado:
+        'factores únicos que hacen que un producto o servicio resalte dentro de la competencia.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Chaffey, D. (2000) Achieving Internet <em>marketing success, The Marketing Review, 1</em> (1), 32-54.',
+    },
+    {
+      referencia:
+        'Friedman, L., et al. (1999) <em>The Channel Advantage,</em> (1),Butterworth-Heinemann.',
+    },
+    {
+      referencia: 'Cruz, E. (2015).<em>Las 4 P’s de la mercadotecnia.</em>',
+      link: 'https://www.emprendices.co/las-4-ps-la-mercadotecnia/',
+    },
+    {
+      referencia:
+        'Da Silva, D. (2021).<em>Segmentación geográfica: ¿qué es y cómo hacerla?</em>',
+      link: 'https://www.zendesk.com.mx/blog/segmentacion-geografica',
+    },
+    {
+      referencia:
+        'Kalaignanam, K., et al. (2008) Marketing operations efficiency and the Internet: an organization framework,<em>Journal of Business Research,</em> 61(4), 298-302.',
+    },
+    {
+      referencia:
+        'Manez, R. (2018). <em>Variables de la segmentación de mercados.</em>',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://rubenmanez.com/wp-content/uploads/2018/05/variables-de-segmentacion-de-mercados.png',
+    },
+    {
+      referencia:
+        'Mascato, C., A. (2022). <em>Todo sobre el plan de marketing digital.</em>',
+      link: 'https://www.uscmarketingdigital.com/plan-marketing-digital/',
+    },
+    {
+      referencia:
+        'Molla, D., A. (2006). <em>Comportamiento del consumidor. </em> Editorial UOC.',
+      link:
+        'https://reader.digitalbooks.pro/content/preview/books/28750/book/OEBPS/Text/Section0004.html',
+    },
+    {
+      referencia: 'Muñiz, G., R. (2019). <em>Marketing en el siglo XXI.</em>',
+      link:
+        'https://www.marketing-xxi.com/concepto-de-investigacion-de-mercados-23.html',
+    },
+    {
+      referencia: 'Peiró, R. (2021). <em>Psicología del consumidor.</em>',
+      link:
+        'https://economipedia.com/definiciones/psicologia-del-consumidor.html',
+    },
+    {
+      referencia:
+        'Peñalver, P. (2021). <em>A Step-By-Step Guide to Structuring a Digital Marketing Plan.</em>',
+      link:
+        'https://www.wearemarketing.com/blog/a-step-by-step-guide-to-structuring-a-digital-marketing-plan.html',
+    },
+    {
+      referencia:
+        'Peralta, E. O. (2021). <em>Marketing mix: qué es y cómo aplicarlo en tu empresa. Blog de marketing.</em>',
+      link: 'https://www.genwords.com/blog/que-es-marketing-mix',
+    },
+    {
+      referencia: 'Quiroa, M. (2019). <em>Investigación de mercado.</em>',
+      link:
+        'https://economipedia.com/definiciones/investigacion-de-mercado.html',
     },
   ],
   creditos: {
