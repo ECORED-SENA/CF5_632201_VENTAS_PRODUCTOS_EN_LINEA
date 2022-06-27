@@ -21,7 +21,7 @@
           .col-11
             p <span style="color:#0B67D1 !important; font-weight: bold;">La construcción de un perfil de cliente tipo buyer persona es una forma de ver cómo dirigirse al cliente con comunicaciones y publicaciones concretas de su interés que lo motiven a tomar decisiones de compra correctas. Mediante esta herramienta la compañía entenderá y empatizará con el cliente y, por ende, podrá lograr ventas más exitosas o consolidar procesos de fidelización. </span>
     .cajon.color-acento-botones.subir02.p-3.px-4.mb-4
-          h5 Muchas veces es totalmente normal que para el mismo producto o servicio se construyan diferentes perfiles de buyer persona, ya que siempre va a representar al cliente ideal y es aquel cliente que está siempre dispuesto y atento a comprar e interactuar con el producto o servicio.  
+      h5 Muchas veces es totalmente normal que para el mismo producto o servicio se construyan diferentes perfiles de buyer persona, ya que siempre va a representar al cliente ideal y es aquel cliente que está siempre dispuesto y atento a comprar e interactuar con el producto o servicio.  
       
     .row.justify-content-center.align-items-center.mb-5
       .col-md-7.col-12.mb-3.order-md-1.order-2
