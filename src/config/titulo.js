@@ -1,1 +1,1 @@
-module.exports = '<em>Marketing</em> digital'
+module.exports = 'Marketing digital'

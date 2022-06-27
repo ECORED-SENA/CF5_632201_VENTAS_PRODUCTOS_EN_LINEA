@@ -9,10 +9,10 @@
 
   .container.BGIMG01.px-4.px-md-5.pt-4    
     .row.justify-content-center
-      .col-md-4.col-8.mb-2
+      .col-lg-4.col-8.mb-lg-0.mb-4
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img01.png')
-      .col-md-8.col-12(data-aos="fade-right")
+      .col-lg-8.col-12(data-aos="fade-right")
         .row.BG06.mb-4.p-4.pb-5
           .col-1
             figure
@@ -39,7 +39,7 @@
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img03.png')
     .cajon.color-acento-contenido.p-3.px-4.mb-4
-      p La segmentación del público objetivo es de especial importancia para las pequeñas y medianas empresas ya que permiten abordar de manera más especializada a los clientes ya que conocen mejor sus preferencias y pueden concentrar sus esfuerzos en lograr conquistar la atención de un grupo determinado en vez de acumular intentos fallidos tratando de apelar a un público muy masivo.
+      p.text-bold.mb-0 La segmentación del público objetivo es de especial importancia para las pequeñas y medianas empresas ya que permiten abordar de manera más especializada a los clientes ya que conocen mejor sus preferencias y pueden concentrar sus esfuerzos en lograr conquistar la atención de un grupo determinado en vez de acumular intentos fallidos tratando de apelar a un público muy masivo.
 
   .container.container02.p-4.p-md-5
     .row.mb-5
@@ -74,7 +74,7 @@
     h5.mb-5 Existen diversos tipos de segmentación, dentro de los cuales se encuentran:
 
     .row.justify-content-center.align-items-center
-      .col-md-4.col-6.mb-2
+      .col-md-4.col-10.mb-md-0.mb-4
         .tarjeta.BG20.p-4 
           .row.justify-content-center
             .col-6.mb-3
@@ -83,7 +83,7 @@
               h5.text-center.text-white Indiferenciado
             .col-12
               p.text-center.text-white En este tipo de segmentación no se diferencia entre individuos del mismo grupo de segmentación y, por lo tanto, la compañía ejecuta una campaña generalizada. 
-      .col-md-4.col-6.mb-2 
+      .col-md-4.col-10.mb-md-0.mb-4 
         .tarjeta.BG08.p-3 
           .row.justify-content-center
             .col-6.mb-3
@@ -92,7 +92,7 @@
               h5.text-center Diferenciado
             .col-12
               p.text-center La segmentación diferenciada está destinada a aplicar una campaña personalizada que ofrezca a cada uno de los individuos del grupo una experiencia especial según sus gustos y preferencias. Esto puede generar impactos muy positivos en el cumplimiento de objetivos, pero requiere un conocimiento a fondo del grupo de segmentación.
-      .col-md-4.col-6.mb-2
+      .col-md-4.col-10.mb-md-0.mb-4
         .tarjeta.BG20.p-3
           .row.justify-content-center
             .col-6.mb-3
@@ -166,8 +166,8 @@
               th(colspan="4").text-center Medidas de tendencia Préstamos
           tbody
             tr
-              td(style="background-color: #fff; color: #000").text-center <b>Segmentación geográfica.</b>
-              td(style="background-color: #fff; color: #000").text-center 
+              td(style="background-color: #fff; color: #000") <b>Segmentación geográfica.</b>
+              td(style="background-color: #fff; color: #000") 
                 ol.lista-vineta2.ps-5
                   li.mb-1
                     .lista-vineta1
@@ -184,8 +184,8 @@
                   li.mb-1
                     .lista-vineta1
                     | Clima.
-              td(style="background-color: #fff; color: #000").text-center <b>Segmentación psicográfica.</b>
-              td(style="background-color: #fff; color: #000").text-center 
+              td(style="background-color: #fff; color: #000") <b>Segmentación psicográfica.</b>
+              td(style="background-color: #fff; color: #000") 
                 ol.lista-vineta2.ps-5
                   li.mb-1
                     .lista-vineta1
@@ -197,8 +197,8 @@
                     .lista-vineta1
                     | Personalidad.
             tr
-              td(style="background-color:#E8E8E8; color: #000").text-center <b>Segmentación demográfica.</b>
-              td(style="background-color:#E8E8E8; color: #000").text-center 
+              td(style="background-color:#E8E8E8; color: #000") <b>Segmentación demográfica.</b>
+              td(style="background-color:#E8E8E8; color: #000") 
                 ol.lista-vineta2.ps-5
                   li.mb-1
                     .lista-vineta1
@@ -224,8 +224,8 @@
                   li.mb-1
                     .lista-vineta1
                     | Nacionalidad.
-              td(style="background-color:#E8E8E8; color: #000").text-center <b>Segmentación en función del comportamiento.</b>
-              td(style="background-color:#E8E8E8; color: #000").text-center 
+              td(style="background-color:#E8E8E8; color: #000") <b>Segmentación en función del comportamiento.</b>
+              td(style="background-color:#E8E8E8; color: #000") 
                 ol.lista-vineta2.ps-5
                   li.mb-1
                     .lista-vineta1

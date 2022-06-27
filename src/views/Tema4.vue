@@ -50,41 +50,41 @@
           .col-11
             p Cada propuesta comercial es diferente, no son documentos estándar y, a pesar de que pueden ser utilizadas herramientas como guías y plantillas para que sean desarrolladas más fácilmente, cada una alberga un contenido distinto. La principal finalidad de una propuesta comercial es presentar al cliente el producto o servicio que se le va a ofrecer. Una propuesta comercial bien formulada proyectará e interpretará las necesidades del cliente para ofrecerle una solución por medio de especificaciones concretas y personalizadas. Además, con la propuesta comercial se quiere llegar a convencer al público objetivo que adquiera el producto. En ella también se pueden enfatizar ciertas ventajas competitivas de la compañía como:
     .row.justify-content-center
-      .col-4
-      .col-md-2.px-4  
+      .col-md-4
+      .col-md-2.col-6.mb-md-0.mb-4
         .row.justify-content-center.BG24.p-3
-          .col-md-6
+          .col-6
             figure
               img(src='@/assets/curso/tema4/img06.svg')
-          .col-md-12.mb-3
+          .col-12.mb-3
             p.text-center Nivel de precios favorable
-      .col-md-2.px-4  
+      .col-md-2.col-6.mb-md-0.mb-4
         .row.justify-content-center.BG24.p-3
-          .col-md-6
+          .col-6
             figure
               img(src='@/assets/curso/tema4/img07.svg')
-          .col-md-10.mb-3
+          .col-10.mb-3
             p.text-center Facilidades de pago
-      .col-md-2.px-4  
+      .col-md-2.col-6.mb-md-0.mb-4
         .row.justify-content-center.BG24.p-3
-          .col-md-6
+          .col-6
             figure
               img(src='@/assets/curso/tema4/img08.svg')
-          .col-md-9.mb-3
+          .col-9.mb-3
             p.text-center Valor agregado
-      .col-md-2.px-4  
+      .col-md-2.col-6.mb-md-0.mb-4
         .row.justify-content-center.BG24.p-3  
-          .col-md-6
+          .col-6
             figure
               img(src='@/assets/curso/tema4/img09.svg')
-          .col-md-10.mb-3
+          .col-10.mb-3
             p.text-center Superioridad en la calidad
 
     .cajon.color-acento-contenido.p-3.px-4.mb-4
       h5 Por otro lado, es importante detallar los tiempos de entrega, las condiciones de pago y los términos y condiciones que se suscriben en la propuesta comercial. Por este motivo, es necesario invertir el tiempo necesario para trazar los objetivos y la hoja de ruta para la construcción de este documento, que puede incluir entre otros elementos: diagramación, diseño, logos e imágenes que va a llevar, información va a llevar, tono y estilo de redacción.
 
     .row.justify-content-center.align-items-center
-      .col-md-8.col-12.BG01.order-md-1.order-2
+      .col-md-8.col-12.BG01.p-4.order-md-1.order-2
         .row.mb-2
           .col-1
             figure.p-0
@@ -98,68 +98,68 @@
 
     SlyderA.BGIMG10.p-3.mb-5(tipo="b")(data-aos="fade-right")
       .row.justify-content-center.align-items-center.p-4
-        .col-md-5.BGIMG11.pt-5
+        .col-md-4.col-8.mb-md-0.mb-4
+          figure.ms-5
+            img(src='@/assets/curso/tema4/img12.svg')
+        .col-md-6.col-10.BGIMG11.pt-5
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Formación de expectativas
               p.mb-0 Es aquí donde se enfatiza sobre lo que se quiere lograr. Resulta muy útil apelar a las emociones del cliente y mostrar el deseo por comenzar un nuevo reto, así como enfatizar las expectativas reales en el tiempo y como sus resultados se desarrollarán e impactarán positivamente a largo, mediano y corto plazo.
-        .col-md-3
-          figure.ms-5
-            img(src='@/assets/curso/tema4/img12.svg')
       .row.justify-content-center.align-items-center.p-4
-        .col-md-4.me-5
+        .col-md-4.col-8.mb-md-0.mb-4
           figure
             img(src='@/assets/curso/tema4/img13.svg')
-        .col-md-5.BGIMG12.pt-5
+        .col-md-6.col-10.BGIMG12.pt-5
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Identificación del problema
               p.mb-0 Es indispensable, en este momento, demostrarle al cliente que sus preocupaciones fueron entendidas y recibidas. Que para la compañía es de gran interés comprender sus necesidades y que a su vez esta se esfuerza por presentar posibles soluciones que lo satisfagan. Para lograr que el cliente se identifique más con la propuesta se pueden incluir frases o palabras que el cliente haya manifestado previamente en el briefing.
       .row.justify-content-center.align-items-center.p-4
-        .col-md-5.BGIMG13.pt-5
+        .col-md-4.col-8.mb-md-0.mb-4
+          figure.ms-5
+            img(src='@/assets/curso/tema4/img14.svg')
+        .col-md-6.col-10.BGIMG13.pt-5
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Marco actual
               p.mb-0 Es acá donde se deja claro el proceso, el camino por el cual se le va a dar solución al problema planteado anteriormente. Se debe realizar un planteamiento diferencial donde se muestre el estado actual de la empresa y cómo se verá cuándo se implementen las soluciones planteadas.
-        .col-md-3
-          figure.ms-5
-            img(src='@/assets/curso/tema4/img14.svg')
       .row.justify-content-center.align-items-center.p-4
-        .col-md-3.me-5
-          figure
-            img(src='@/assets/curso/tema4/img15.svg')
-        .col-md-5.BGIMG14.pt-5
+        .col-md-6.col-10.BGIMG14.pt-5
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Competencia
               p.mb-0 Por medio del análisis de las propuestas de la competencia se tendrá una visión más clara y efectiva de hasta dónde se puede llegar y/o mostrar el valor agregado de la propuesta de la compañía. 
+        .col-md-4.col-8.mb-md-0.mb-4
+          figure
+            img(src='@/assets/curso/tema4/img15.svg')
       .row.justify-content-center.align-items-center.p-4
-        .col-md-5.BGIMG15.pt-5
+        .col-md-4.col-8.mb-md-0.mb-4
+          figure.ms-5
+            img(src='@/assets/curso/tema4/img16.svg')
+        .col-md-6.col-10.BGIMG15.pt-5
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Propósito
               p.mb-0 Se deben dejar claros, de la manera más concreta y directa, los propósitos y objetivos de la propuesta. Se especifica la meta a alcanzar, mas no las acciones, objetos y/o estrategias a abordar para hacerlo; se debe ser muy claro en diferenciar estos dos momentos. 
-        .col-md-3
-          figure.ms-5
-            img(src='@/assets/curso/tema4/img16.svg')
       .row.justify-content-center.align-items-center.p-4
-        .col-md-4.me-5
-          figure
-            img(src='@/assets/curso/tema4/img17.svg')
-        .col-md-5.BGIMG16.pt-5
+        .col-md-6.col-10.BGIMG16.pt-5.mb-md-0.mb-4
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Estimación de costos
               p.mb-0 Es esta etapa se le pone el valor de costo del producto o servicio. Es importante que por medio de herramientas como el ROI se establezcan los valores claros de retorno sobre la inversión. También pueden incluirse las formas y plazos de pago, estrategias de financiamiento, costos complementarios o presupuestos adicionales, etc.
+        .col-md-4.col-8
+          figure
+            img(src='@/assets/curso/tema4/img17.svg')
       .row.justify-content-center.align-items-center.p-4
-        .col-md-5.BGIMG17.pt-5
+        .col-md-4.col-8.mb-md-0.mb-4
+          figure.ms-5
+            img(src='@/assets/curso/tema4/img18.svg')
+        .col-md-6.col-10.BGIMG17.pt-5
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Plan de acción
               p.mb-0 Aquí se describe cómo se van a llevar a cabo todas las actividades para lograr el éxito y las posibilidades de realización en el tiempo. 
-        .col-md-3
-          figure.ms-5
-            img(src='@/assets/curso/tema4/img18.svg')
     
   .container.container02.p-4.p-md-5
     p.mb-5 Así mismo, se pueden mencionar varias etapas importantes dentro del proceso de diseño y construcción de una propuesta comercial: 

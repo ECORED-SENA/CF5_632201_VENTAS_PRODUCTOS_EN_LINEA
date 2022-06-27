@@ -48,7 +48,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema5/img07.svg')})`}"
       )(data-aos="fade-right")
       .bloque-texto-g__texto.p-4
-        p.mb-0 Debido a la gran cantidad de datos que arroja, un estudio de mercado es una herramienta que aporta de formas muy valiosas a la campaña de mercadeo digital. Estos datos constituyen un insumo crucial para tomar diferentes medidas en la organización. Estas medidas pueden impactar en acciones tan diversas como economizar costos, reconfiguración de equipos y talento humano, mejoras en el tiempo dando posibilidad a inversiones no tan elevadas, optimización de procesos de producción, entre otros.
+        p.mb-0 Debido a la gran cantidad de datos que arroja, un estudio de mercado es una herramienta que aporta de formas muy valiosas a la campaña de mercadeo digital. Estos datos constituyen un insumo crucial para tomar diferentes medidas en la organización. <span style="color:#7F4FC7 !important; font-weight: bold;">Estas medidas pueden impactar en acciones tan diversas como economizar costos, reconfiguración de equipos y talento humano, mejoras en el tiempo dando posibilidad a inversiones no tan elevadas, optimización de procesos de producción, entre otros.</span>
 
     .row.justify-content-center.align-items-center
       .col-md-8.col-12.BG01.order-md-1.order-2
@@ -310,10 +310,10 @@
               p.text-white Se basan en relatos o textos que pueden ayudar a entender acciones o comportamientos. Por ejemplo, los focus group o las entrevistas en profundidad se basan en el análisis de datos cualitativos en donde los participantes expresan de manera muy detallada preferencias y gustos.
 
     .row.justify-content-center.BG04.p-4
-      .col-md-1.col-2.mb-2
+      .col-md-1.col-4.mb-md-0.mb-4
         figure(data-aos="fade-right")
           img(src='@/assets/curso/tema1/img06.svg')
-      .col-md-11.col-10
+      .col-11
         h4 ¿Cómo realizar la interpretación estadística?
         p Es necesario contar con especialistas en interpretación estadística ya que en esta etapa de la investigación será determinante la organización y análisis matemático de los datos cuantitativo, así como contar con expertos en interpretación cualitativa que sepan poner en marcha técnicas de cuestionamiento que logren arrojar los resultados necesarios para tomar las decisiones y acciones necesarias para mejorar la situación actual de la compañía.
     
