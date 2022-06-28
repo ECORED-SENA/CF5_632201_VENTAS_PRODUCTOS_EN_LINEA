@@ -54,7 +54,7 @@
               h3.mb-1 Llamado a la acción
               p.text-small Para conocer en el detalle la construcción del perfil de un buyer persona con base en la información indicada en la anterior imagen, se invita al aprendiz ver el video Buyer persona. 
             .col-sm-auto
-              a.boton.color-acento-botones(href="https://www.youtube.com/embed/2L91WMqw96A" target="_blank")
+              a.boton.color-acento-botones(href="https://www.youtube.com/embed/6wN7nsKOlk0" target="_blank")
                 span Ver video
 
     

@@ -341,7 +341,7 @@
                   h3.mb-1 DOFA
                   p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/embed/2L91WMqw96A" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/embed/IQDoHDm2Y0I" target="_blank")
                     span Ver video
 
   .container.BGIMG03.px-4.px-md-5.pt-4
