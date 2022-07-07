@@ -31,15 +31,7 @@
                 figure
                   img(src='@/assets/curso/tema1/img05.svg')
               .col-10
-                p ¿Qué es un plan de marketing?
-
-    .row.justify-content-center.BG04.p-4
-      .col-md-1.col-4.mb-mb-0.mb-4
-        figure(data-aos="fade-right")
-          img(src='@/assets/curso/tema1/img06.svg')
-      .col-md-11
-        h4 Característica según el canal
-        p Este tipo de mercadeo reconoce necesidades y deseos no satisfechos por el consumidor. Luego los aborda utilizando diversos medios como las piezas audiovisuales, hipervínculos de anuncios, campañas en buscadores, publicaciones y anuncios pagos en redes sociales. A esto se le puede sumar la utilización de medios más convencionales como correo electrónico, publicidad web y mensajes de texto. Esto hace que el consumidor final cuente con las herramientas necesarias para interactuar y participar en conversaciones virtuales en donde tendrá la capacidad de interactuar con otros usuarios, calificar el producto o servicio, realizar comentarios, opiniones, etc. Esto a su vez compone un factor de relacionamiento con el cliente que permite proporcionarle un mayor grado de identificación con el producto o servicio. 
+                p ¿Qué es un plan de #[i marketing]?
 
   .container.BGIMG01.p-4.p-md-5
     .row.justify-content-center.mb-4
@@ -111,7 +103,7 @@
       
       .row.justify-content-center.align-items-center
         .col-md-8.col-12.order-md-1.order-2(data-aos="fade-right")
-          p Un plan de <em>Marketing</em> es un documento en donde se resumen los objetivos, acciones y estrategias a poner en marcha para así alcanzar las metas organizacionales de una compañía. En él intervienen el equipo de mercadeo y el equipo comercial; es el documento que define los términos, el tono y el lenguaje que se utilizará para abordar al cliente. 
+          p Un plan de <em>marketing</em> es un documento en donde se resumen los objetivos, acciones y estrategias a poner en marcha para así alcanzar las metas organizacionales de una compañía. En él intervienen el equipo de mercadeo y el equipo comercial; es el documento que define los términos, el tono y el lenguaje que se utilizará para abordar al cliente. 
           .tarjeta-avatar-b.mb-5
             .tarjeta-avatar-b__img
               img.w-75.px-1.ms-4(src='@/assets/curso/tema1/img16.svg' alt='AvatarTop')
@@ -131,7 +123,7 @@
           img(src='@/assets/curso/tema1/img19.png')  
 
     .cajon.color-acento-botones.p-4.px-4.mb-4(data-aos="fade-right")
-      p Los objetivos de este plan deben ser cuantificables, logrables, alineados con la realidad y factibles a corto, mediano y largo plazo, porque sin planeación no se llegará al éxito. En este plan también se consideran los análisis de mercadeo realizados en el pasado, metas de marketing por cumplir, estrategias a implementar y cronogramas. La disposición para llevar a cabo un plan de marketing digital con éxito marca la diferencia dentro de un sector o actividad económica, debido a que no solamente interpreta los sucesos previos dentro de la compañía, sino que también propone y define el rumbo que esta debe tomar para asegurar el cumplimiento de los objetivos que se planteen. 
+      p Los objetivos de este plan deben ser cuantificables, logrables, alineados con la realidad y factibles a corto, mediano y largo plazo, porque sin planeación no se llegará al éxito. En este plan también se consideran los análisis de mercadeo realizados en el pasado, metas de #[i marketing] por cumplir, estrategias a implementar y cronogramas. La disposición para llevar a cabo un plan de #[i marketing] digital con éxito marca la diferencia dentro de un sector o actividad económica, debido a que no solamente interpreta los sucesos previos dentro de la compañía, sino que también propone y define el rumbo que esta debe tomar para asegurar el cumplimiento de los objetivos que se planteen. 
 
     .row(data-aos="fade-right")
       .col-auto.BG05
@@ -207,8 +199,8 @@
   .container.BGIMG02.px-4.px-md-5
     .row.mb-2(data-aos="fade-right")
       .col-auto.BG05
-        h4.text-white.mb-0.py-2 Los pasos para diseñar un plan de marketing digital son:
-    p En el presente recurso se abordarán los pasos a seguir para diseñar un plan de marketing digital.
+        h4.text-white.mb-0.py-2 Los pasos para diseñar un plan de #[i marketing] digital son:
+    p En el presente recurso se abordarán los pasos a seguir para diseñar un plan de #[i marketing] digital.
     .row.justify-content-center.align-items-center
       .col-md-4.col-6(data-aos="zoom-in")
         figure
@@ -242,7 +234,7 @@
               img(src='@/assets/curso/tema1/img36.svg')
         .row.justify-content-center.mb-4
           .col-auto.BG12.p-2            
-            h4.text-center.text-white.mb-0 internos y externos 
+            h4.text-center.text-white.mb-0 Internos y externos 
         .row.justify-content-center.mb-4
           .col-2
             figure
@@ -356,7 +348,7 @@
             figure
               img(src='@/assets/curso/tema1/img46.svg')
           .col-10
-            p.mb-0 <span style="color:#7F4FC7 !important; font-weight: bold;"> Tomando como insumo del análisis DOFA previamente realizado, se pueden identificar los objetivos </span><b> de mercadeo o marketing y los objetivos de negocio. </b>
+            p.mb-0 <span style="color:#7F4FC7 !important; font-weight: bold;"> Tomando como insumo del análisis DOFA previamente realizado, se pueden identificar los objetivos </span><b> de mercadeo o #[i marketing] y los objetivos de negocio. </b>
         .tarjeta-avatar-b.mb-4
           .tarjeta-avatar-b__img
             img.px-3(src='@/assets/curso/tema1/img47.svg' alt='AvatarTop')
@@ -378,7 +370,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-12(data-aos="fade-right")
           .bloque-texto-a__texto.p-4
-            p Después de establecer los objetivos de marketing, se deben establecer los objetivos SMART (específicos, medibles, alcanzables, relevantes y de tiempo). Estos objetivos cumplen con las siguientes características:
+            p Después de establecer los objetivos de #[i marketing], se deben establecer los objetivos SMART (específicos, medibles, alcanzables, relevantes y de tiempo). Estos objetivos cumplen con las siguientes características:
     
     .row.justify-content-center         
       .col-md-11.col-12.mb-4(data-aos="fade-right")
@@ -432,7 +424,7 @@
           img(src='@/assets/curso/tema1/img55.png')
       .col-md-8.col-12.mb-3
         .cajon.color-acento-botones.p-4.px-5.mb-4
-          h5 Una vez se hayan fijado los objetivos, es preciso elegir la estrategia de mercadeo que mejor se ciña a los resultados que se esperan. Cuando se habla de estrategia de marketing, se refiere a:
+          h5 Una vez se hayan fijado los objetivos, es preciso elegir la estrategia de mercadeo que mejor se ciña a los resultados que se esperan. Cuando se habla de estrategia de #[i marketing], se refiere a:
         .row.justify-content-center(data-aos="fade-left")
           .col-10.mb-4
             .tarjeta-avatar-b.mb-4
@@ -459,7 +451,7 @@
           .tarjeta.BG19
             .p-3.pt-xl-5.pt-lg-3 
               h5.text-white Estrategia
-              p.text-white llegar a un mayor número de clientes potenciales y que la marca se da a conocer masivamente.
+              p.text-white Llegar a un mayor número de clientes potenciales y que la marca se da a conocer masivamente.
       .col-lg-6.col-10.mb-3.ps-3
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
@@ -467,7 +459,7 @@
           .tarjeta.BG19
             .p-3.pt-xl-5.pt-lg-3 
               h5.text-white Táctica
-              p.text-white  programar anuncios digitales en los principales portales y redes sociales para aumentar la exposición.
+              p.text-white  Programar anuncios digitales en los principales portales y redes sociales para aumentar la exposición.
     p.mb-5 Seguidamente, se procede al envío a cada una de las áreas relacionadas con cada factor o aspecto a reportar, en las fechas establecidas y durante el tiempo definido para su registro, los formularios de encuesta o cuestionarios según corresponda.
 
     .row.justify-content-center
@@ -538,17 +530,17 @@
                   | ¿Qué tipo de estrategia de promoción pone en marcha la competencia?
           .row.justify-content-center.align-items-center(numero="4" titulo="Plaza")
             .col-12             
-              p La plaza se refiere al lugar que se va a elegir para vender, comercializar o promocionar el producto. En este caso, como se habla de marketing digital, la plaza se definirá dentro del entorno digital en donde estén expuestos los productos (plataformas de venta online, tiendas multinivel online, plataformas de comercio e intercambio, redes sociales, página web propia, etc.). Para elegir la plaza correcta debe analizarse muy bien el público objetivo para saber en qué lugar se encuentra la mayor parte del nicho de mercado del producto o servicio. Algunas preguntas útiles para elegir correctamente la plaza son: 
+              p La plaza se refiere al lugar que se va a elegir para vender, comercializar o promocionar el producto. En este caso, como se habla de #[i marketing] digital, la plaza se definirá dentro del entorno digital en donde estén expuestos los productos (plataformas de venta #[i online], tiendas multinivel #[i online], plataformas de comercio e intercambio, redes sociales, página #[i web] propia, etc.). Para elegir la plaza correcta debe analizarse muy bien el público objetivo para saber en qué lugar se encuentra la mayor parte del nicho de mercado del producto o servicio. Algunas preguntas útiles para elegir correctamente la plaza son: 
               ol.lista-vineta1.ps-5
                 li.mb-1
                   .lista-vineta1
                   | ¿En qué lugar suele el público objetivo buscar el tipo de producto que se está ofreciendo?
                 li.mb-1
                   .lista-vineta1
-                  | ¿En qué tipo de tiendas o plataformas online compra el cliente al que se quiere llegar?
+                  | ¿En qué tipo de tiendas o plataformas #[i online] compra el cliente al que se quiere llegar?
                 li.mb-1
                   .lista-vineta1
-                  | ¿Cómo se puede llegar a dichas plataformas o tiendas online?
+                  | ¿Cómo se puede llegar a dichas plataformas o tiendas #[i online]?
                 li.mb-1
                   .lista-vineta1
                   | ¿En dónde están vendiendo los competidores?
@@ -558,7 +550,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img62.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Existen diversas estrategias para desarrollar un plan de <em>marketing</em> digital que cumplan con los objetivos, acciones y tácticas que se han planteado previamente. Estas deben relacionarse con las 4 P y ser coherentes con el tipo de mensaje que impere en el planteamiento de la promoción. En la actualidad, el principal propósito es crear contenidos multimedia de diversos tipos como <em>newsletters</em>, multimedia en redes sociales, blogs y campañas publicitarias pagadas, creación de sitios <em>web</em> o <em>landing pages</em>, entre otros. 
+        p.mb-0 Existen diversas estrategias para desarrollar un plan de <em>marketing</em> digital que cumplan con los objetivos, acciones y tácticas que se han planteado previamente. Estas deben relacionarse con las 4 P y ser coherentes con el tipo de mensaje que impere en el planteamiento de la promoción. En la actualidad, el principal propósito es crear contenidos multimedia de diversos tipos como #[i newsletters], multimedia en redes sociales, #[i blogs] y campañas publicitarias pagadas, creación de sitios #[i web] o #[i landing pages], entre otros. 
 
     .row.mb-5
       .col-auto.BG05
@@ -569,8 +561,8 @@
         .col-md-5.BGIMG11.pt-5
           .row.justify-content-center.align-items-end.pt-5
             .col-11
-              h4 Utilizar contenido llamativo en publicaciones y <em>newsletters</em>
-              p.mb-0 Utilizar imágenes atractivas en alta calidad y contenido multimedia especializado para promocionar los productos en redes sociales, newsletters y páginas web asegura un mayor impacto frente a los clientes potenciales.
+              h4 Utilizar contenido llamativo en publicaciones y #[i newsletters]
+              p.mb-0 Utilizar imágenes atractivas en alta calidad y contenido multimedia especializado para promocionar los productos en redes sociales, #[i newsletters] y páginas #[i web] asegura un mayor impacto frente a los clientes potenciales.
         .col-md-3.col-10
           figure.ms-5
             img(src='@/assets/curso/tema1/img68.svg')
@@ -581,8 +573,8 @@
         .col-md-5.BGIMG12.pt-5
           .row.justify-content-center.align-items-end.pt-5
             .col-11
-              h4 Incluir call-to-action (llamado a la acción) en página web y perfiles principales
-              p.mb-0 Los llamados a la acción o call-to-action, son botones o textos llamativos llamando al cliente a tomar la decisión de acercarse más al producto que se ofrece. Ejemplos de ellos son botones grandes y llamativos en los landing pages, newsletters o portales de venta que invitan al cliente a suscribirse, a conocer más información, a comprar, comenzar, unirse entre otras acciones. Algunos ejemplos de call-to-action son: “Pruébalo gratis”, “Ponte al volante y genera ganancias”, “Obtén Premium”, “Regístrate ya para conocer los beneficios”. 
+              h4 Incluir #[i call-to-action] (llamado a la acción) en página #[i web] y perfiles principales
+              p.mb-0 Los llamados a la acción o #[i call-to-action], son botones o textos llamativos llamando al cliente a tomar la decisión de acercarse más al producto que se ofrece. Ejemplos de ellos son botones grandes y llamativos en los #[i landing pages], #[i newsletters] o portales de venta que invitan al cliente a suscribirse, a conocer más información, a comprar, comenzar, unirse entre otras acciones. Algunos ejemplos de #[i call-to-action] son: “Pruébalo gratis”, “Ponte al volante y genera ganancias”, “Obtén Premium”, “Regístrate ya para conocer los beneficios”. 
       .row.justify-content-center.align-items-center.p-4
         .col-md-5.BGIMG13.pt-5
           .row.justify-content-center.align-items-end.pt-5
@@ -600,13 +592,13 @@
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Compartir enlaces en la firma del correo electrónico
-              p.mb-0 Es muy común compartir enlaces de interés para el cliente en campañas de newsletters. Sin embargo, también se pueden compartir enlaces de landing pages, redes sociales, catálogos online, etc. en la firma de correos electrónicos institucionales u organizacionales que vayan dirigidos a proveedores, colegas, colaboradores, contratistas, etc. Esto da a conocer los diferentes canales de mercadeo digital que tiene una compañía y también mejora la imagen que ella refleja frente a su entorno digital. 
+              p.mb-0 Es muy común compartir enlaces de interés para el cliente en campañas de #[i newsletters]. Sin embargo, también se pueden compartir enlaces de #[i landing pages], redes sociales, catálogos #[i online], etc. en la firma de correos electrónicos institucionales u organizacionales que vayan dirigidos a proveedores, colegas, colaboradores, contratistas, etc. Esto da a conocer los diferentes canales de mercadeo digital que tiene una compañía y también mejora la imagen que ella refleja frente a su entorno digital. 
       .row.justify-content-center.align-items-center.p-4
         .col-md-5.BGIMG15.pt-5
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Incluir botones para compartir en diferentes plataformas
-              p.mb-0 Dentro de los blogs, páginas web, vitrina de ventas online o demás canales de marketing, es importante incluir botones para que dichos contenidos puedan ser fácilmente compartidos por los clientes potenciales por medio de redes sociales. Esto ayudará a fortalecer el voz a voz y a posicionarse dentro de nichos y comunidades virtuales.
+              p.mb-0 Dentro de los #[i blogs], páginas #[i web], vitrina de ventas #[i online] o demás canales de #[i marketing], es importante incluir botones para que dichos contenidos puedan ser fácilmente compartidos por los clientes potenciales por medio de redes sociales. Esto ayudará a fortalecer el voz a voz y a posicionarse dentro de nichos y comunidades virtuales.
         .col-md-3.col-8
           figure.ms-5
             img(src='@/assets/curso/tema1/img81.svg')
@@ -623,8 +615,8 @@
         .col-md-5.BGIMG17.pt-5
           .row.justify-content-center.align-items-end.pt-5
             .col-12
-              h4 Incluir landing pages en las publicaciones
-              p.mb-0 Para impulsar el número de enganches y aumentar el tráfico es una buena idea incluir links a los landing pages en las diferentes publicaciones y así relacionar todo tipo de experiencias digitales para los clientes potenciales. Además, esto contribuirá a que los clientes amplíen la información que tengan de los productos o servicios a ofrecer. 
+              h4 Incluir #[i landing pages] en las publicaciones
+              p.mb-0 Para impulsar el número de enganches y aumentar el tráfico es una buena idea incluir #[i links] a los #[i landing pages] en las diferentes publicaciones y así relacionar todo tipo de experiencias digitales para los clientes potenciales. Además, esto contribuirá a que los clientes amplíen la información que tengan de los productos o servicios a ofrecer. 
         .col-md-3.col-10
           figure.ms-5
             img(src='@/assets/curso/tema1/img83.svg')
@@ -641,8 +633,8 @@
         .col-md-5.BGIMG19.pt-5
           .row.justify-content-center.align-items-end.pt-5
             .col-12
-              h4 Mayor calidad en el diseño de los newsletters y mercadeo de correo electrónico
-              p.mb-0 A la hora de diseñar las campañas de mercadeo vía correo electrónico resulta de gran ayuda utilizar plantillas HTML que cuenten con diversas herramientas como links y contenido multimedia más que utilizar una simple imagen o texto. Esto generará mayor impacto y recordación y le dará más peso a los call-to-action que se implementen en él. 
+              h4 Mayor calidad en el diseño de los #[i newsletters] y mercadeo de correo electrónico
+              p.mb-0 A la hora de diseñar las campañas de mercadeo vía correo electrónico resulta de gran ayuda utilizar plantillas HTML que cuenten con diversas herramientas como #[i links] y contenido multimedia más que utilizar una simple imagen o texto. Esto generará mayor impacto y recordación y le dará más peso a los #[i call-to-action] que se implementen en él. 
         .col-md-3.col-10.ms-5
           figure
             img(src='@/assets/curso/tema1/img85.svg')        
@@ -654,7 +646,7 @@
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Segmentación de destinatarios de #[i newsletters]
-              p.mb-0 Al utilizar componentes de segmentación como características demográficas, edad, género o incluso perfilamientos de clientes más específicos garantizará que el contenido tenga mayor relevancia y vaya dirigido a quién realmente le interese. Esto, además, reducirá la percepción de que los comunicados enviados sean spam o correo no deseado.         
+              p.mb-0 Al utilizar componentes de segmentación como características demográficas, edad, género o incluso perfilamientos de clientes más específicos garantizará que el contenido tenga mayor relevancia y vaya dirigido a quién realmente le interese. Esto, además, reducirá la percepción de que los comunicados enviados sean #[i spam] o correo no deseado.         
       .row.justify-content-center.align-items-center.p-4        
         .col-md-5.BGIMG21.pt-5
           .row.justify-content-center.align-items-end.pt-5
@@ -671,14 +663,14 @@
         .col-md-5.BGIMG22.pt-5
           .row.justify-content-center.align-items-end.pt-5
             .col-12
-              h4 Crear landing pages
-              p.mb-0 Si solo se cuenta con presencia en redes sociales, es de gran ayuda como estrategia para poner en marcha un plan de mercadeo, crear una landing page que redirija a todos los clientes a un solo lugar. Esta puede ser tan sencilla como una landing page informativa o incluir otro tipo de herramientas como pasarela de pago, catálogo de bienes y servicios, blogs, etc.         
+              h4 Crear #[i landing pages]
+              p.mb-0 Si solo se cuenta con presencia en redes sociales, es de gran ayuda como estrategia para poner en marcha un plan de mercadeo, crear una landing page que redirija a todos los clientes a un solo lugar. Esta puede ser tan sencilla como una landing page informativa o incluir otro tipo de herramientas como pasarela de pago, catálogo de bienes y servicios, #[i blogs], etc.         
       .row.justify-content-center.align-items-center.p-4
         .col-md-5.BGIMG23.pt-5
           .row.justify-content-center.align-items-end.pt-5
             .col-12
-              h4 Complementar el sitio web con pop-ups promocionales
-              p.mb-0 Cuando el sitio web sea más robusto, se pueden incluir anuncios promocionales, call-to-action, experiencias virtuales o encuestas de satisfacción vía pop-ups o ventanas emergentes, estas dependen de la configuración del navegador del cliente y pueden convertirse en un factor complementario a la experiencia que este tenga cuando visita el sitio web.
+              h4 Complementar el sitio #[i web] con #[i pop-ups] promocionales
+              p.mb-0 Cuando el sitio #[i web] sea más robusto, se pueden incluir anuncios promocionales, #[i call-to-action], experiencias virtuales o encuestas de satisfacción vía #[i pop-ups] o ventanas emergentes, estas dependen de la configuración del navegador del cliente y pueden convertirse en un factor complementario a la experiencia que este tenga cuando visita el sitio #[i web].
         .col-md-3.col-10.ms-5
           figure
             img(src='@/assets/curso/tema1/img89.svg')
@@ -688,8 +680,8 @@
         figure(data-aos="fade-right")
           img(src='@/assets/curso/tema1/img06.svg')
       .col-md-11
-        h4 ¿Cuales son las estrategias para poner en marcha un plan de marketing?
-        p Las estrategias para poner en marcha un plan de marketing tienen que ir vinculadas o ligadas con las acciones que se llevan a cabo para cumplir con las metas de ventas propuesto en el plan de marketing digital. Para ello se deben diseñar y construir contenidos del producto o servicio en redes sociales, creación de comunicados electrónicos con difusión del producto o servicio y campañas publicitarias pagadas entre otras muchas más aplicaciones. Existen múltiples estrategias de marketing digital que se pueden implementar: creación de sitios web y landing pages para conversión de visitantes, generar y publicar contenido en redes sociales, artículos de blog o videos para atraer a más y nuevos visitantes.
+        h4 ¿Cuales son las estrategias para poner en marcha un plan de #[i marketing]?
+        p Las estrategias para poner en marcha un plan de #[i marketing] tienen que ir vinculadas o ligadas con las acciones que se llevan a cabo para cumplir con las metas de ventas propuesto en el plan de #[i marketing] digital. Para ello se deben diseñar y construir contenidos del producto o servicio en redes sociales, creación de comunicados electrónicos con difusión del producto o servicio y campañas publicitarias pagadas entre otras muchas más aplicaciones. Existen múltiples estrategias de #[i marketing] digital que se pueden implementar: creación de sitios #[i web] y #[i landing pages] para conversión de visitantes, generar y publicar contenido en redes sociales, artículos de blog o videos para atraer a más y nuevos visitantes.
 
 
 

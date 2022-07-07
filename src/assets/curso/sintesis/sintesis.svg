@@ -1,0 +1,647 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1128.514" height="1250.713" viewBox="0 0 1128.514 1250.713">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_220048" data-name="Trazado 220048" d="M243-614.227H444.667V-667H243Z" transform="translate(-243 667)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Trazado_220051" data-name="Trazado 220051" d="M612-616.15H926.751V-684H612Z" transform="translate(-612 684)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Trazado_220058" data-name="Trazado 220058" d="M219-543.919H505.48V-608H219Z" transform="translate(-219 608)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Trazado_220060" data-name="Trazado 220060" d="M654-578.19H812.318V-614H654Z" transform="translate(-654 614)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Trazado_220061" data-name="Trazado 220061" d="M517-497.763H658.355V-592H517Z" transform="translate(-517 592)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <path id="Trazado_220063" data-name="Trazado 220063" d="M407-481.763H531.392V-576H407Z" transform="translate(-407 576)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <path id="Trazado_220065" data-name="Trazado 220065" d="M660-497.956H801.355V-579H660Z" transform="translate(-660 579)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <path id="Trazado_220066" data-name="Trazado 220066" d="M233-519.383H466.707V-542H233Z" transform="translate(-233 542)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <path id="Trazado_220071" data-name="Trazado 220071" d="M233-346.991H459.168V-494H233Z" transform="translate(-233 494)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <path id="Trazado_220074" data-name="Trazado 220074" d="M619-384.031H926.212V-499H619Z" transform="translate(-619 499)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdbe41"/>
+      <stop offset="1" stop-color="#d09f40"/>
+    </linearGradient>
+    <clipPath id="clip-path-11">
+      <path id="Trazado_220077" data-name="Trazado 220077" d="M457-419.458H660.551V-476H457Z" transform="translate(-457 476)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <path id="Trazado_220084" data-name="Trazado 220084" d="M294-307.611H522.053V-383H294Z" transform="translate(-294 383)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-13">
+      <path id="Trazado_220086" data-name="Trazado 220086" d="M596-346H808.975v-49H596Z" transform="translate(-596 395)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-14">
+      <path id="Trazado_220087" data-name="Trazado 220087" d="M454-342H602.894v-49H454Z" transform="translate(-454 391)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-15">
+      <path id="Trazado_220088" data-name="Trazado 220088" d="M359-232.109H617.209V-332H359Z" transform="translate(-359 332)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-16">
+      <path id="Trazado_220090" data-name="Trazado 220090" d="M214-261H426.975v-49H214Z" transform="translate(-214 310)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-17">
+      <path id="Trazado_220093" data-name="Trazado 220093" d="M654-268.766H897.131V-314H654Z" transform="translate(-654 314)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-18">
+      <path id="Trazado_220096" data-name="Trazado 220096" d="M524-234H736.975v-49H524Z" transform="translate(-524 283)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-19">
+      <path id="Trazado_220101" data-name="Trazado 220101" d="M211-68.642H450.361V-259H211Z" transform="translate(-211 259)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-20">
+      <path id="Trazado_220104" data-name="Trazado 220104" d="M374-113.53H662.364V-253H374Z" transform="translate(-374 253)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-21">
+      <path id="Trazado_220105" data-name="Trazado 220105" d="M663-210H875.975v-49H663Z" transform="translate(-663 259)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-22">
+      <path id="Trazado_220109" data-name="Trazado 220109" d="M646-82.262H924.941V-201H646Z" transform="translate(-646 201)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-23">
+      <path id="Trazado_220111" data-name="Trazado 220111" d="M372-96H584.975v-49H372Z" transform="translate(-372 145)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-24">
+      <path id="Trazado_220115" data-name="Trazado 220115" d="M495,34.238H726.822V-95H495Z" transform="translate(-495 95)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-25">
+      <path id="Trazado_220116" data-name="Trazado 220116" d="M343-28.034H490.009V-94H343Z" transform="translate(-343 94)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_179425" data-name="Grupo 179425" transform="translate(-220.596 -787.209)">
+    <path id="Trazado_220046" data-name="Trazado 220046" d="M241.5-659.935A12.565,12.565,0,0,1,254.065-672.5h185.96a12.565,12.565,0,0,1,12.565,12.565v50.259a12.565,12.565,0,0,1-12.565,12.565H254.065A12.565,12.565,0,0,1,241.5-609.676Z" transform="translate(57.313 1492.25)" fill="#e7e6e6"/>
+    <g id="Grupo_176980" data-name="Grupo 176980" transform="translate(298.813 819.749)">
+      <path id="Trazado_220047" data-name="Trazado 220047" d="M0,12.565A12.565,12.565,0,0,1,12.565,0h185.96A12.565,12.565,0,0,1,211.09,12.565V62.824a12.565,12.565,0,0,1-12.565,12.565H12.565A12.565,12.565,0,0,1,0,62.824Z" fill="none" stroke="#fff" stroke-miterlimit="8" stroke-width="1"/>
+    </g>
+    <g id="Grupo_176984" data-name="Grupo 176984" transform="translate(301.64 830.115)" clip-path="url(#clip-path)">
+      <g id="Grupo_176981" data-name="Grupo 176981" transform="translate(24.839 1.885)">
+        <text id="Internet_dispositivos_" data-name="Internet, dispositivos " transform="translate(-2 19)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Internet, dispositivos </tspan></text>
+      </g>
+      <g id="Grupo_176982" data-name="Grupo 176982" transform="translate(71.047 26.386)">
+        <text id="móviles." transform="translate(-2 19)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">móviles.</tspan></text>
+      </g>
+      <g id="Grupo_176983" data-name="Grupo 176983" transform="translate(133.258 22.617)">
+        <text id="_" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220049" data-name="Trazado 220049" d="M609.5-674.422A15.078,15.078,0,0,1,624.578-689.5h295.9a15.078,15.078,0,0,1,15.078,15.078v60.311a15.078,15.078,0,0,1-15.078,15.078h-295.9A15.078,15.078,0,0,1,609.5-614.111Z" transform="translate(382.895 1477.209)" fill="#e7e6e6"/>
+    <g id="Grupo_176985" data-name="Grupo 176985" transform="translate(992.395 787.709)">
+      <path id="Trazado_220050" data-name="Trazado 220050" d="M0,15.078A15.078,15.078,0,0,1,15.078,0h295.9a15.078,15.078,0,0,1,15.078,15.078V75.389a15.078,15.078,0,0,1-15.078,15.078H15.078A15.078,15.078,0,0,1,0,75.389Z" fill="none" stroke="#fff" stroke-miterlimit="8" stroke-width="1"/>
+    </g>
+    <g id="Grupo_176990" data-name="Grupo 176990" transform="translate(997.106 798.075)" clip-path="url(#clip-path-2)">
+      <g id="Grupo_176986" data-name="Grupo 176986" transform="translate(41.28 3.769)">
+        <text id="La_planificación_estratégica_de_una_" data-name="La planificación estratégica de una " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">La planificación estratégica de una </tspan></text>
+      </g>
+      <g id="Grupo_176987" data-name="Grupo 176987" transform="translate(34.989 22.617)">
+        <text id="compañía_debe_estar_enfocada_en_el_" data-name="compañía debe estar enfocada en el " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">compañía debe estar enfocada en el </tspan></text>
+      </g>
+      <g id="Grupo_176988" data-name="Grupo 176988" transform="translate(42.973 43.349)">
+        <text id="comprador_y_usuario_del_producto." data-name="comprador y usuario del producto." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">comprador y usuario del producto.</tspan></text>
+      </g>
+      <g id="Grupo_176989" data-name="Grupo 176989" transform="translate(271.777 37.695)">
+        <text id="_2" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220052" data-name="Trazado 220052" d="M569.5-287.768h35.622V-664.9H627.55v4.712l11.308-5.654L627.55-671.5v4.712H603.237v377.135H569.5Z" transform="translate(347.506 1493.135)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <path id="Trazado_220053" data-name="Trazado 220053" d="M539.5-309.238H472.736V-649.9H362.808v4.712L351.5-650.846l11.308-5.654v4.712H474.621v340.666H539.5Z" transform="translate(154.633 1506.405)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <path id="Trazado_220054" data-name="Trazado 220054" d="M699.1-643.5v38.354h4.712l-5.654,11.308L692.5-605.146h4.712V-643.5Z" transform="translate(456.328 1517.906)" fill="#7f4fc7" stroke="#7b4cc1" stroke-width="1"/>
+    <path id="Trazado_220117" data-name="Trazado 220117" d="M699.1-643.5v38.354h4.712l-5.654,11.308L692.5-605.146h4.712V-643.5Z" transform="translate(456.328 1615.254)" fill="#7f4fc7" stroke="#7b4cc1" stroke-width="1"/>
+    <path id="Trazado_220118" data-name="Trazado 220118" d="M699.1-643.5v38.354h4.712l-5.654,11.308L692.5-605.146h4.712V-643.5Z" transform="translate(456.328 1726.454)" fill="#7f4fc7" stroke="#7b4cc1" stroke-width="1"/>
+    <g id="Grupo_176995" data-name="Grupo 176995" transform="translate(256.406 941.314)" clip-path="url(#clip-path-3)">
+      <path id="Trazado_220055" data-name="Trazado 220055" d="M249-608H422.4v16.963H249Z" transform="translate(-192.458 608)" fill="#fff"/>
+      <g id="Grupo_176991" data-name="Grupo 176991" transform="translate(55.733)">
+        <text id="Su_objetivo_es_atender_las_" data-name="Su objetivo es atender las " transform="translate(0 19)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Su objetivo es atender las </tspan></text>
+      </g>
+      <path id="Trazado_220056" data-name="Trazado 220056" d="M230-598H473.131v18.847H230Z" transform="translate(-209.268 616.847)" fill="#fff"/>
+      <g id="Grupo_176992" data-name="Grupo 176992" transform="translate(21.366 18.847)">
+        <text id="necesidades_y_expectativas_de_cada_" data-name="necesidades y expectativas de cada " transform="translate(0 19)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">necesidades y expectativas de cada </tspan></text>
+      </g>
+      <path id="Trazado_220057" data-name="Trazado 220057" d="M273-587h81.044v18.847H273Z" transform="translate(-171.224 626.579)" fill="#fff"/>
+      <g id="Grupo_176993" data-name="Grupo 176993" transform="translate(101.423 39.579)">
+        <text id="consumidor._" data-name="consumidor. " transform="translate(0 19)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">consumidor. </tspan></text>
+      </g>
+      <g id="Grupo_176994" data-name="Grupo 176994" transform="translate(187.738 33.925)">
+        <text id="_3" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220059" data-name="Trazado 220059" d="M296.1-633.5v38.354h4.712l-5.654,11.308L289.5-595.146h4.712V-633.5Z" transform="translate(99.78 1526.754)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <g id="Grupo_176999" data-name="Grupo 176999" transform="translate(1076.266 930.007)" clip-path="url(#clip-path-4)">
+      <g id="Grupo_176996" data-name="Grupo 176996" transform="translate(18.43)">
+        <text id="Segmentación_del_" data-name="Segmentación del " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Segmentación del </tspan></text>
+      </g>
+      <g id="Grupo_176997" data-name="Grupo 176997" transform="translate(47.356 18.847)">
+        <text id="mercado." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">mercado.</tspan></text>
+      </g>
+      <g id="Grupo_176998" data-name="Grupo 176998" transform="translate(110.208 13.193)">
+        <text id="_4" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_177005" data-name="Grupo 177005" transform="translate(818.057 971.471)" clip-path="url(#clip-path-5)">
+      <g id="Grupo_177000" data-name="Grupo 177000" transform="translate(69.923)">
+        <text id="_5" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177001" data-name="Grupo 177001" transform="translate(15.242 26.386)">
+        <text id="Consumidores_" data-name="Consumidores " transform="translate(0 14)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Consumidores </tspan></text>
+      </g>
+      <g id="Grupo_177002" data-name="Grupo 177002" transform="translate(26.08 49.003)">
+        <text id="y_segmento_" data-name="y segmento " transform="translate(0 14)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">y segmento </tspan></text>
+      </g>
+      <g id="Grupo_177003" data-name="Grupo 177003" transform="translate(38.334 71.62)">
+        <text id="objetivo." transform="translate(0 14)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">objetivo.</tspan></text>
+      </g>
+      <g id="Grupo_177004" data-name="Grupo 177004" transform="translate(101.513 67.85)">
+        <text id="_6" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_177010" data-name="Grupo 177010" transform="translate(610.736 1001.626)" clip-path="url(#clip-path-6)">
+      <g id="Grupo_177006" data-name="Grupo 177006" transform="translate(23.963 -1.885)">
+        <text id="Canales_y_" data-name="Canales y " transform="translate(1 14)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Canales y </tspan></text>
+      </g>
+      <g id="Grupo_177007" data-name="Grupo 177007" transform="translate(34.337 20.732)">
+        <text id="medios_" data-name="medios " transform="translate(1 14)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">medios </tspan></text>
+      </g>
+      <g id="Grupo_177008" data-name="Grupo 177008" transform="translate(28.204 45.234)">
+        <text id="digitales." transform="translate(1 14)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">digitales.</tspan></text>
+      </g>
+      <g id="Grupo_177009" data-name="Grupo 177009" transform="translate(95.152 41.464)">
+        <text id="_7" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220064" data-name="Trazado 220064" d="M296.1-571.5v38.354h4.712l-5.654,11.308L289.5-533.146h4.712V-571.5Z" transform="translate(99.78 1581.607)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <g id="Grupo_177018" data-name="Grupo 177018" transform="translate(1087.574 995.973)" clip-path="url(#clip-path-7)">
+      <g id="Grupo_177011" data-name="Grupo 177011" transform="translate(70.301)">
+        <text id="_8" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177012" data-name="Grupo 177012" transform="translate(20.845 28.271)">
+        <text id="Indiferenciado." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Indiferenciado.</tspan></text>
+      </g>
+      <g id="Grupo_177013" data-name="Grupo 177013" transform="translate(119.757 22.617)">
+        <text id="_9" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177014" data-name="Grupo 177014" transform="translate(25.881 47.118)">
+        <text id="Diferenciado." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Diferenciado.</tspan></text>
+      </g>
+      <g id="Grupo_177015" data-name="Grupo 177015" transform="translate(114.721 41.464)">
+        <text id="_10" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177016" data-name="Grupo 177016" transform="translate(27.979 67.85)">
+        <text id="Especialista." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Especialista.</tspan></text>
+      </g>
+      <g id="Grupo_177017" data-name="Grupo 177017" transform="translate(112.623 62.196)">
+        <text id="_11" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_177024" data-name="Grupo 177024" transform="translate(282.792 1065.707)" clip-path="url(#clip-path-8)">
+      <g id="Grupo_177019" data-name="Grupo 177019" transform="translate(15.382)">
+        <text id="Ventajas_del_" data-name="Ventajas del " transform="translate(2 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ventajas del </tspan></text>
+      </g>
+      <g id="Grupo_177020" data-name="Grupo 177020" transform="translate(102.559)">
+        <text id="marketing" transform="translate(0 13)" font-size="14" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0">marketing</tspan></text>
+      </g>
+      <g id="Grupo_177021" data-name="Grupo 177021" transform="translate(168.76)">
+        <text id="_12" data-name=" " transform="translate(0 11)" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177022" data-name="Grupo 177022" transform="translate(172.949)">
+        <text id="digital:" transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0em"><tspan x="0" y="0">digital:</tspan></text>
+      </g>
+      <g id="Grupo_177023" data-name="Grupo 177023" transform="translate(216.534 -5.654)">
+        <text id="_13" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220067" data-name="Trazado 220067" d="M295.1-530.5v38.354h4.712l-5.654,11.308L288.5-492.146h4.712V-530.5Z" transform="translate(98.896 1617.882)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <path id="Trazado_220069" data-name="Trazado 220069" d="M228.5-472.658A29.842,29.842,0,0,1,258.342-502.5H443.673a29.842,29.842,0,0,1,29.842,29.842v119.366a29.842,29.842,0,0,1-29.842,29.842H258.342A29.842,29.842,0,0,1,228.5-353.292Z" transform="translate(45.811 1642.654)" fill="#e7e6e6"/>
+    <g id="Grupo_177025" data-name="Grupo 177025" transform="translate(274.311 1140.154)">
+      <path id="Trazado_220070" data-name="Trazado 220070" d="M0,29.842A29.842,29.842,0,0,1,29.842,0H215.173a29.842,29.842,0,0,1,29.842,29.842V149.208a29.842,29.842,0,0,1-29.842,29.842H29.842A29.842,29.842,0,0,1,0,149.208Z" fill="none" stroke="#fff" stroke-miterlimit="8" stroke-width="1"/>
+    </g>
+    <g id="Grupo_177038" data-name="Grupo 177038" transform="translate(282.792 1156.175)" clip-path="url(#clip-path-9)">
+      <g id="Grupo_177026" data-name="Grupo 177026" transform="translate(47.898 13.769)">
+        <text id="Mayor_rendimiento." data-name="Mayor rendimiento." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Mayor rendimiento.</tspan></text>
+      </g>
+      <g id="Grupo_177027" data-name="Grupo 177027" transform="translate(176.951 -1.885)">
+        <text id="_14" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177028" data-name="Grupo 177028" transform="translate(49.985 32.617)">
+        <text id="Mayor_variedad_de_" data-name="Mayor variedad de " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Mayor variedad de </tspan></text>
+      </g>
+      <g id="Grupo_177029" data-name="Grupo 177029" transform="translate(32.389 53.349)">
+        <text id="herramientas_analíticas." data-name="herramientas analíticas." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">herramientas analíticas.</tspan></text>
+      </g>
+      <g id="Grupo_177030" data-name="Grupo 177030" transform="translate(192.459 37.695)">
+        <text id="_15" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177031" data-name="Grupo 177031" transform="translate(61.293 72.196)">
+        <text id="Alcance_global." data-name="Alcance global." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Alcance global.</tspan></text>
+      </g>
+      <g id="Grupo_177032" data-name="Grupo 177032" transform="translate(163.555 56.542)">
+        <text id="_16" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177033" data-name="Grupo 177033" transform="translate(36.991 92.928)">
+        <text id="Precisión_en_el_público_objetivo." data-name="Precisión en el público objetivo." transform="translate(-24 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Precisión en el público objetivo.</tspan></text>
+      </g>
+      <g id="Grupo_177035" data-name="Grupo 177035" transform="translate(140.504 98.006)">
+        <text id="_17" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177036" data-name="Grupo 177036" transform="translate(28.196 122.508)">
+        <text id="Inmediatez_y_fidelización." data-name="Inmediatez y fidelización." transform="translate(0 3)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Inmediatez y fidelización.</tspan></text>
+      </g>
+      <g id="Grupo_177037" data-name="Grupo 177037" transform="translate(196.652 116.854)">
+        <text id="_18" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220072" data-name="Trazado 220072" d="M615.5-482.312A24.188,24.188,0,0,1,639.688-506.5h275.8a24.188,24.188,0,0,1,24.188,24.188v96.749a24.188,24.188,0,0,1-24.188,24.188h-275.8A24.188,24.188,0,0,1,615.5-385.563Z" transform="translate(388.203 1639.115)" fill="#e7e6e6"/>
+    <g id="Grupo_177039" data-name="Grupo 177039" transform="translate(1003.703 1132.615)">
+      <path id="Trazado_220073" data-name="Trazado 220073" d="M0,24.188A24.188,24.188,0,0,1,24.188,0h275.8a24.188,24.188,0,0,1,24.188,24.188v96.749a24.188,24.188,0,0,1-24.188,24.188H24.188A24.188,24.188,0,0,1,0,120.937Z" fill="none" stroke="#fff" stroke-miterlimit="8" stroke-width="1"/>
+    </g>
+    <g id="Grupo_177052" data-name="Grupo 177052" transform="translate(1010.3 1146.751)" clip-path="url(#clip-path-10)">
+      <g id="Grupo_177040" data-name="Grupo 177040" transform="translate(65.919)">
+        <text id="Segmentación_geográfica." data-name="Segmentación geográfica." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Segmentación geográfica.</tspan></text>
+      </g>
+      <g id="Grupo_177041" data-name="Grupo 177041" transform="translate(241.104 -5.654)">
+        <text id="_19" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177042" data-name="Grupo 177042" transform="translate(59.639 18.847)">
+        <text id="Segmentación_demográfica." data-name="Segmentación demográfica." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Segmentación demográfica.</tspan></text>
+      </g>
+      <g id="Grupo_177043" data-name="Grupo 177043" transform="translate(247.384 13.193)">
+        <text id="_20" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177044" data-name="Grupo 177044" transform="translate(60.898 39.579)">
+        <text id="Segmentación_psicográfica." data-name="Segmentación psicográfica." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Segmentación psicográfica.</tspan></text>
+      </g>
+      <g id="Grupo_177045" data-name="Grupo 177045" transform="translate(246.125 33.925)">
+        <text id="_21" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177046" data-name="Grupo 177046" transform="translate(47.477 58.427)">
+        <text id="Segmentación_conductual_o_por_" data-name="Segmentación conductual o por " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Segmentación conductual o por </tspan></text>
+      </g>
+      <g id="Grupo_177047" data-name="Grupo 177047" transform="translate(97.363 79.159)">
+        <text id="co" transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">co</tspan></text>
+      </g>
+      <g id="Grupo_177048" data-name="Grupo 177048" transform="translate(113.288 79.159)">
+        <text id="mportamiento." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">mportamiento.</tspan></text>
+      </g>
+      <g id="Grupo_177049" data-name="Grupo 177049" transform="translate(209.66 73.505)">
+        <text id="_22" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177050" data-name="Grupo 177050" transform="translate(18.573 99.891)">
+        <text id="Segmentación_por_sector_en_la_industria." data-name="Segmentación por sector en la industria." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Segmentación por sector en la industria.</tspan></text>
+      </g>
+      <g id="Grupo_177051" data-name="Grupo 177051" transform="translate(288.451 94.237)">
+        <text id="_23" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220075" data-name="Trazado 220075" d="M454.5-468.307A13.193,13.193,0,0,1,467.693-481.5H654.282a13.193,13.193,0,0,1,13.193,13.193v52.772a13.193,13.193,0,0,1-13.193,13.193H467.693A13.193,13.193,0,0,1,454.5-415.534Z" transform="translate(245.761 1661.233)" fill="url(#linear-gradient)"/>
+    <g id="Grupo_177053" data-name="Grupo 177053" transform="translate(700.261 1179.733)">
+      <path id="Trazado_220076" data-name="Trazado 220076" d="M0,13.193A13.193,13.193,0,0,1,13.193,0H199.782a13.193,13.193,0,0,1,13.193,13.193V65.966a13.193,13.193,0,0,1-13.193,13.193H13.193A13.193,13.193,0,0,1,0,65.966Z" fill="none" stroke="#fff" stroke-miterlimit="8" stroke-width="1"/>
+    </g>
+    <g id="Grupo_177058" data-name="Grupo 177058" transform="translate(704.973 1190.1)" clip-path="url(#clip-path-11)">
+      <g id="Grupo_177054" data-name="Grupo 177054" transform="translate(34.436 16.963)">
+        <text id="Marketing-2" data-name="Marketing" transform="translate(0 17)" font-size="16" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">Marketing</tspan></text>
+      </g>
+      <g id="Grupo_177055" data-name="Grupo 177055" transform="translate(114.553 16.963)">
+        <text id="_24" data-name=" " transform="translate(0 14)" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177056" data-name="Grupo 177056" transform="translate(119.266 16.963)">
+        <text id="digital" transform="translate(0 17)" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">digital</tspan></text>
+      </g>
+      <g id="Grupo_177057" data-name="Grupo 177057" transform="translate(169.209 13.193)">
+        <text id="_25" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220078" data-name="Trazado 220078" d="M548.119-468H491.356v196.484H348.808v-4.712L337.5-270.574l11.308,5.654v-4.712H493.241V-466.115h54.878Z" transform="translate(142.247 1673.178)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <path id="Trazado_220079" data-name="Trazado 220079" d="M514.843-437.671,449.158-256.9l-4.429-1.609,1.452,12.559,9.176-8.7-4.428-1.609,65.684-180.766Z" transform="translate(237.116 1700.011)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <path id="Trazado_220080" data-name="Trazado 220080" d="M554.469-439.857,776.705-222.168l3.3-3.366,4.122,11.952-12.035-3.874,3.3-3.366L553.15-438.511Z" transform="translate(333.04 1698.076)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <path id="Trazado_220081" data-name="Trazado 220081" d="M548.884-440.513l16.383,619.1,4.71-.123-5.355,11.368-5.949-11.073,4.71-.123L547-440.464Z" transform="translate(327.599 1702.232)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <path id="Trazado_220082" data-name="Trazado 220082" d="M291.5-372.537A16.963,16.963,0,0,1,308.463-389.5H513.9a16.963,16.963,0,0,1,16.963,16.963v67.85A16.963,16.963,0,0,1,513.9-287.724H308.463A16.963,16.963,0,0,1,291.5-304.687Z" transform="translate(-70.904 1739.803)" fill="#e7e6e6"/>
+    <g id="Grupo_177065" data-name="Grupo 177065" transform="translate(225.308 1362.554)" clip-path="url(#clip-path-12)">
+      <g id="Grupo_177060" data-name="Grupo 177060" transform="translate(42.604)">
+        <text id="Objetivos_acciones_y_" data-name="Objetivos, acciones y " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Objetivos, acciones y </tspan></text>
+      </g>
+      <g id="Grupo_177061" data-name="Grupo 177061" transform="translate(17.455 18.847)">
+        <text id="estrategias_para_alcanzar_las_" data-name="estrategias para alcanzar las " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">estrategias para alcanzar las </tspan></text>
+      </g>
+      <g id="Grupo_177062" data-name="Grupo 177062" transform="translate(24.155 39.579)">
+        <text id="metas_organizacionales_de_" data-name="metas organizacionales de " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">metas organizacionales de </tspan></text>
+      </g>
+      <g id="Grupo_177063" data-name="Grupo 177063" transform="translate(63.962 58.427)">
+        <text id="una_compañía." data-name="una compañía." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">una compañía.</tspan></text>
+      </g>
+      <g id="Grupo_177064" data-name="Grupo 177064" transform="translate(163.713 52.773)">
+        <text id="_26" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_177075" data-name="Grupo 177075" transform="translate(966.951 1342.764)" clip-path="url(#clip-path-13)">
+      <g id="Grupo_177073" data-name="Grupo 177073" transform="translate(26.257)">
+        <text id="Propuesta_comercial." data-name="Propuesta comercial." transform="translate(0 14)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Propuesta comercial.</tspan></text>
+      </g>
+      <g id="Grupo_177074" data-name="Grupo 177074" transform="translate(185.588 -3.769)">
+        <text id="_27" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_177080" data-name="Grupo 177080" transform="translate(699.318 1350.303)" clip-path="url(#clip-path-14)">
+      <g id="Grupo_177076" data-name="Grupo 177076" transform="translate(22.209 -1.885)">
+        <text id="Interpretación_" data-name="Interpretación " transform="translate(7 19)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Interpretación </tspan></text>
+      </g>
+      <g id="Grupo_177077" data-name="Grupo 177077" transform="translate(130.644 -5.654)">
+        <text id="_28" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177078" data-name="Grupo 177078" transform="translate(20.793 22.617)">
+        <text id="de_resultados." data-name="de resultados." transform="translate(7 14)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">de resultados.</tspan></text>
+      </g>
+      <g id="Grupo_177079" data-name="Grupo 177079" transform="translate(127.347 18.847)">
+        <text id="_29" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_177086" data-name="Grupo 177086" transform="translate(520.269 1461.502)" clip-path="url(#clip-path-15)">
+      <g id="Grupo_177081" data-name="Grupo 177081" transform="translate(14.083)">
+        <text id="Las_encuestas_manejan_diferentes_" data-name="Las encuestas manejan diferentes " transform="translate(0 13)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Las encuestas manejan diferentes </tspan></text>
+      </g>
+      <g id="Grupo_177082" data-name="Grupo 177082" transform="translate(15.773 18.847)">
+        <text id="formatos_y_tienen_diferentes_fines_" data-name="formatos y tienen diferentes fines, " transform="translate(0 13)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">formatos y tienen diferentes fines, </tspan></text>
+      </g>
+      <g id="Grupo_177083" data-name="Grupo 177083" transform="translate(51.815 39.579)">
+        <text id="pero_comparten_ciertas_" data-name="pero comparten ciertas " transform="translate(0.19 13.919)" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="0">pero comparten ciertas </tspan></text>
+      </g>
+      <g id="Grupo_177084" data-name="Grupo 177084" transform="translate(78.223 62.196)">
+        <text id="características." transform="translate(-0.219 14.302)" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="0">características.</tspan></text>
+      </g>
+      <g id="Grupo_177085" data-name="Grupo 177085" transform="translate(179.608 56.542)">
+        <text id="_30" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220089" data-name="Trazado 220089" d="M357.1-334.5v38.354h4.712l-5.654,11.308L350.5-296.146h4.712V-334.5Z" transform="translate(-11.166 1788.557)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <g id="Grupo_177089" data-name="Grupo 177089" transform="translate(246.982 1502.966)" clip-path="url(#clip-path-16)">
+      <g id="Grupo_177087" data-name="Grupo 177087" transform="translate(42.64 1.885)">
+        <text id="Plan_de_mercadeo:" data-name="Plan de mercadeo:" transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Plan de mercadeo:</tspan></text>
+      </g>
+      <g id="Grupo_177088" data-name="Grupo 177088" transform="translate(169.204 -3.769)">
+        <text id="_31" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220091" data-name="Trazado 220091" d="M652.5-308.191A11.309,11.309,0,0,1,663.809-319.5H891.861a11.309,11.309,0,0,1,11.309,11.309v45.233a11.309,11.309,0,0,1-11.309,11.309H663.809A11.309,11.309,0,0,1,652.5-262.958Z" transform="translate(420.938 1804.561)" fill="#e7e6e6"/>
+    <g id="Grupo_177090" data-name="Grupo 177090" transform="translate(1073.438 1485.061)">
+      <path id="Trazado_220092" data-name="Trazado 220092" d="M0,11.309A11.309,11.309,0,0,1,11.309,0H239.361A11.309,11.309,0,0,1,250.67,11.309V56.542A11.309,11.309,0,0,1,239.361,67.85H11.309A11.309,11.309,0,0,1,0,56.542Z" fill="none" stroke="#fff" stroke-miterlimit="8" stroke-width="1"/>
+    </g>
+    <g id="Grupo_177094" data-name="Grupo 177094" transform="translate(1076.266 1495.427)" clip-path="url(#clip-path-17)">
+      <g id="Grupo_177091" data-name="Grupo 177091" transform="translate(14.78 3.769)">
+        <text id="Segmento_objetivo_con_la_oferta_" data-name="Segmento objetivo con la oferta " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Segmento objetivo con la oferta </tspan></text>
+      </g>
+      <g id="Grupo_177092" data-name="Grupo 177092" transform="translate(44.962 22.617)">
+        <text id="de_producto_o_servicio." data-name="de producto o servicio." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">de producto o servicio.</tspan></text>
+      </g>
+      <g id="Grupo_177093" data-name="Grupo 177093" transform="translate(196.661 16.963)">
+        <text id="_32" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220094" data-name="Trazado 220094" d="M357.1-295.5v38.354h4.712l-5.654,11.308L350.5-257.146h4.712V-295.5Z" transform="translate(-11.166 1823.061)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <path id="Trazado_220095" data-name="Trazado 220095" d="M431.1-288.5v38.354h4.712l-5.654,11.308L424.5-250.146h4.712V-288.5Z" transform="translate(219.219 1831.987)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <g id="Grupo_177099" data-name="Grupo 177099" transform="translate(831.25 1553.854)" clip-path="url(#clip-path-18)">
+      <g id="Grupo_177095" data-name="Grupo 177095" transform="translate(56.417 -1.885)">
+        <text id="Investigación_" data-name="Investigación " transform="translate(18 19)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Investigación </tspan></text>
+      </g>
+      <g id="Grupo_177096" data-name="Grupo 177096" transform="translate(160.14 -5.654)">
+        <text id="_33" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177097" data-name="Grupo 177097" transform="translate(54.537 22.617)">
+        <text id="de_mercados." data-name="de mercados." transform="translate(18 19)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">de mercados.</tspan></text>
+      </g>
+      <g id="Grupo_177098" data-name="Grupo 177098" transform="translate(157.307 18.847)">
+        <text id="_34" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220097" data-name="Trazado 220097" d="M722.1-284.5v38.354h4.712l-5.654,11.308L715.5-246.146h4.712V-284.5Z" transform="translate(476.677 1835.526)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <path id="Trazado_220099" data-name="Trazado 220099" d="M205.5-230.491A38.01,38.01,0,0,1,243.509-268.5H429.469a38.01,38.01,0,0,1,38.009,38.009V-78.457a38.009,38.009,0,0,1-38.009,38.009H243.509A38.01,38.01,0,0,1,205.5-78.457Z" transform="translate(25.462 1849.682)" fill="#e7e6e6"/>
+    <g id="Grupo_177100" data-name="Grupo 177100" transform="translate(230.962 1581.182)">
+      <path id="Trazado_220100" data-name="Trazado 220100" d="M0,38.009A38.009,38.009,0,0,1,38.009,0H223.969a38.009,38.009,0,0,1,38.009,38.009V190.043a38.009,38.009,0,0,1-38.009,38.009H38.009A38.009,38.009,0,0,1,0,190.043Z" fill="none" stroke="#fff" stroke-miterlimit="8" stroke-width="1"/>
+    </g>
+    <g id="Grupo_177116" data-name="Grupo 177116" transform="translate(241.328 1599.087)" clip-path="url(#clip-path-19)">
+      <g id="Grupo_177101" data-name="Grupo 177101" transform="translate(25.174 5.654)">
+        <text id="Objetivos_a_largo_mediano_y_" data-name="Objetivos a largo, mediano y " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Objetivos a largo, mediano y </tspan></text>
+      </g>
+      <g id="Grupo_177102" data-name="Grupo 177102" transform="translate(81.745 24.502)">
+        <text id="corto_plazo." data-name="corto plazo." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">corto plazo.</tspan></text>
+      </g>
+      <g id="Grupo_177103" data-name="Grupo 177103" transform="translate(159.689 18.847)">
+        <text id="_35" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177104" data-name="Grupo 177104" transform="translate(48.221 45.234)">
+        <text id="Los_canales_a_utilizar." data-name="Los canales a utilizar." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Los canales a utilizar.</tspan></text>
+      </g>
+      <g id="Grupo_177105" data-name="Grupo 177105" transform="translate(193.213 39.579)">
+        <text id="_36" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177106" data-name="Grupo 177106" transform="translate(24.327 65.966)">
+        <text id="Las_acciones_y_los_planes_de_" data-name="Las acciones y los planes de " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Las acciones y los planes de </tspan></text>
+      </g>
+      <g id="Grupo_177107" data-name="Grupo 177107" transform="translate(85.519 84.813)">
+        <text id="desarrollo." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">desarrollo.</tspan></text>
+      </g>
+      <g id="Grupo_177108" data-name="Grupo 177108" transform="translate(155.916 79.159)">
+        <text id="_37" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177109" data-name="Grupo 177109" transform="translate(76.293 105.545)">
+        <text id="Presupuesto." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Presupuesto.</tspan></text>
+      </g>
+      <g id="Grupo_177110" data-name="Grupo 177110" transform="translate(165.141 99.891)">
+        <text id="_38" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177111" data-name="Grupo 177111" transform="translate(18.044 124.392)">
+        <text id="Los_tiempos_y_la_hoja_de_ruta_a_" data-name="Los tiempos y la hoja de ruta a " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Los tiempos y la hoja de ruta a </tspan></text>
+      </g>
+      <g id="Grupo_177112" data-name="Grupo 177112" transform="translate(77.144 145.125)">
+        <text id="implementar." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">implementar.</tspan></text>
+      </g>
+      <g id="Grupo_177113" data-name="Grupo 177113" transform="translate(164.291 139.47)">
+        <text id="_39" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177114" data-name="Grupo 177114" transform="translate(51.571 163.972)">
+        <text id="Estudio_de_mercado." data-name="Estudio de mercado." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Estudio de mercado.</tspan></text>
+      </g>
+      <g id="Grupo_177115" data-name="Grupo 177115" transform="translate(189.863 158.318)">
+        <text id="_40" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220102" data-name="Trazado 220102" d="M369.5-232.228A28.272,28.272,0,0,1,397.772-260.5H648.44a28.272,28.272,0,0,1,28.272,28.272v113.083A28.272,28.272,0,0,1,648.44-90.874H397.772A28.272,28.272,0,0,1,369.5-119.146Z" transform="translate(170.559 1856.76)" fill="#e7e6e6"/>
+    <g id="Grupo_177117" data-name="Grupo 177117" transform="translate(540.059 1596.26)">
+      <path id="Trazado_220103" data-name="Trazado 220103" d="M0,28.272A28.272,28.272,0,0,1,28.272,0H278.94a28.272,28.272,0,0,1,28.272,28.272V141.354a28.272,28.272,0,0,1-28.272,28.272H28.272A28.272,28.272,0,0,1,0,141.354Z" fill="none" stroke="#fff" stroke-miterlimit="8" stroke-width="1"/>
+    </g>
+    <g id="Grupo_177130" data-name="Grupo 177130" transform="translate(548.54 1610.396)" clip-path="url(#clip-path-20)">
+      <g id="Grupo_177118" data-name="Grupo 177118" transform="translate(29.263)">
+        <text id="Investigación_para_satisfacción_del_cliente._" data-name="Investigación para satisfacción del cliente. " transform="translate(-18 34)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Investigación para satisfacción del cliente. </tspan></text>
+      </g>
+      <g id="Grupo_177120" data-name="Grupo 177120" transform="translate(167.975 15.078)">
+        <text id="_41" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177121" data-name="Grupo 177121" transform="translate(21.713 41.464)">
+        <text id="Investigación_para_el_lanzamiento_de_" data-name="Investigación para el lanzamiento de " transform="translate(0 13)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Investigación para el lanzamiento de </tspan></text>
+      </g>
+      <g id="Grupo_177122" data-name="Grupo 177122" transform="translate(68.238 60.312)">
+        <text id="un_producto_o_servicio." data-name="un producto o servicio." transform="translate(0 13)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">un producto o servicio.</tspan></text>
+      </g>
+      <g id="Grupo_177123" data-name="Grupo 177123" transform="translate(219.937 54.657)">
+        <text id="_42" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177124" data-name="Grupo 177124" transform="translate(33.028 81.044)">
+        <text id="Investigación_para_fidelización_de_marca._" data-name="Investigación para fidelización de marca. " transform="translate(-17 13)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Investigación para fidelización de marca. </tspan></text>
+      </g>
+      <g id="Grupo_177126" data-name="Grupo 177126" transform="translate(167.128 94.237)">
+        <text id="_43" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177127" data-name="Grupo 177127" transform="translate(48.537 100.623)">
+        <text id="Interpretación_de_resultados." data-name="Interpretación de resultados." transform="translate(0 13)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Interpretación de resultados.</tspan></text>
+      </g>
+      <g id="Grupo_177128" data-name="Grupo 177128" transform="translate(239.639 114.969)">
+        <text id="_44" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177129" data-name="Grupo 177129" transform="translate(144.088 139.47)">
+        <text id="_45" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_177135" data-name="Grupo 177135" transform="translate(1093.229 1599.087)" clip-path="url(#clip-path-21)">
+      <g id="Grupo_177131" data-name="Grupo 177131" transform="translate(36.772)">
+        <text id="Construcción_de_una_" data-name="Construcción de una " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Construcción de una </tspan></text>
+      </g>
+      <g id="Grupo_177132" data-name="Grupo 177132" transform="translate(35.944 18.847)">
+        <text id="propuesta_comercial.-2" data-name="propuesta comercial." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">propuesta comercial.</tspan></text>
+      </g>
+      <g id="Grupo_177133" data-name="Grupo 177133" transform="translate(175.9 13.193)">
+        <text id="_46" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177134" data-name="Grupo 177134" transform="translate(105.922 39.579)">
+        <text id="_47" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220106" data-name="Trazado 220106" d="M721.1-238.5v38.354h4.712l-5.654,11.308L714.5-200.146h4.712V-238.5Z" transform="translate(475.792 1876.225)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <path id="Trazado_220107" data-name="Trazado 220107" d="M642.5-183.684A24.816,24.816,0,0,1,667.316-208.5H911.7a24.816,24.816,0,0,1,24.816,24.816v99.262A24.816,24.816,0,0,1,911.7-59.606H667.316A24.816,24.816,0,0,1,642.5-84.422Z" transform="translate(412.091 1902.767)" fill="#e7e6e6"/>
+    <g id="Grupo_177136" data-name="Grupo 177136" transform="translate(1054.591 1694.267)">
+      <path id="Trazado_220108" data-name="Trazado 220108" d="M0,24.816A24.816,24.816,0,0,1,24.816,0H269.2a24.816,24.816,0,0,1,24.816,24.816v99.262A24.816,24.816,0,0,1,269.2,148.894H24.816A24.816,24.816,0,0,1,0,124.078Z" fill="none" stroke="#fff" stroke-miterlimit="8" stroke-width="1"/>
+    </g>
+    <g id="Grupo_177147" data-name="Grupo 177147" transform="translate(1061.188 1708.401)" clip-path="url(#clip-path-22)">
+      <g id="Grupo_177137" data-name="Grupo 177137" transform="translate(67.179)">
+        <text id="Calificación_y_" data-name="Calificación y " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Calificación y </tspan></text>
+      </g>
+      <g id="Grupo_177138" data-name="Grupo 177138" transform="translate(160.194)">
+        <text id="briefing." transform="translate(0 13)" font-size="14" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0">briefing.</tspan></text>
+      </g>
+      <g id="Grupo_177139" data-name="Grupo 177139" transform="translate(213.835 -5.654)">
+        <text id="_48" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177140" data-name="Grupo 177140" transform="translate(49.988 18.847)">
+        <text id="Edificación_de_la_solución_y_" data-name="Edificación de la solución y " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Edificación de la solución y </tspan></text>
+      </g>
+      <g id="Grupo_177141" data-name="Grupo 177141" transform="translate(43.27 39.579)">
+        <text id="presentación_de_la_propuesta_" data-name="presentación de la propuesta " transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">presentación de la propuesta </tspan></text>
+      </g>
+      <g id="Grupo_177142" data-name="Grupo 177142" transform="translate(106.155 58.427)">
+        <text id="comercial." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">comercial.</tspan></text>
+      </g>
+      <g id="Grupo_177143" data-name="Grupo 177143" transform="translate(174.859 52.773)">
+        <text id="_49" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177144" data-name="Grupo 177144" transform="translate(69.693 79.159)">
+        <text id="Seguimiento_y_cierre." data-name="Seguimiento y cierre." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Seguimiento y cierre.</tspan></text>
+      </g>
+      <g id="Grupo_177145" data-name="Grupo 177145" transform="translate(211.321 73.505)">
+        <text id="_50" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177146" data-name="Grupo 177146" transform="translate(140.507 99.891)">
+        <text id="_51" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220110" data-name="Trazado 220110" d="M430.1-168.5v38.354h4.712l-5.654,11.308L423.5-130.146h4.712V-168.5Z" transform="translate(218.334 1938.155)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <g id="Grupo_177151" data-name="Grupo 177151" transform="translate(544.771 1813.947)" clip-path="url(#clip-path-23)">
+      <g id="Grupo_177148" data-name="Grupo 177148" transform="translate(19.63 2.115)">
+        <text id="Etapa_de_psicología_de_" data-name="Etapa de psicología de " transform="translate(0 19)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Etapa de psicología de </tspan></text>
+      </g>
+      <g id="Grupo_177149" data-name="Grupo 177149" transform="translate(61.61 22.617)">
+        <text id="los_clientes." data-name="los clientes." transform="translate(0 18)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">los clientes.</tspan></text>
+      </g>
+      <g id="Grupo_177150" data-name="Grupo 177150" transform="translate(150.233 18.847)">
+        <text id="_52" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <path id="Trazado_220112" data-name="Trazado 220112" d="M423.4-120.811,391.806-81.127l-3.686-2.935L385.5-71.693l11.467-5.325-3.686-2.935,31.594-39.685Z" transform="translate(184.714 1980.348)" fill="#7f4fc7" stroke="#7f4fc7" stroke-width="1"/>
+    <path id="Trazado_220113" data-name="Trazado 220113" d="M491.5-77.918c0-13.024,9.282-23.582,20.732-23.582H717.668c11.45,0,20.732,10.558,20.732,23.582V16.407c0,13.024-9.282,23.582-20.732,23.582H512.232c-11.45,0-20.732-10.558-20.732-23.582Z" transform="translate(278.496 1997.433)" fill="#e7e6e6"/>
+    <g id="Grupo_177152" data-name="Grupo 177152" transform="translate(769.996 1895.933)">
+      <path id="Trazado_220114" data-name="Trazado 220114" d="M0,23.582C0,10.558,9.282,0,20.732,0H226.168C237.618,0,246.9,10.558,246.9,23.582v94.325c0,13.024-9.282,23.582-20.732,23.582H20.732C9.282,141.489,0,130.931,0,117.907Z" fill="none" stroke="#fff" stroke-miterlimit="8" stroke-width="1"/>
+    </g>
+    <g id="Grupo_177166" data-name="Grupo 177166" transform="translate(776.593 1908.184)" clip-path="url(#clip-path-24)">
+      <g id="Grupo_177153" data-name="Grupo 177153" transform="translate(78.944 0)">
+        <text id="Encuestas." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Encuestas.</tspan></text>
+      </g>
+      <g id="Grupo_177154" data-name="Grupo 177154" transform="translate(153.538 -5.654)">
+        <text id="_53" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177155" data-name="Grupo 177155" transform="translate(28.652 18.847)">
+        <text id="Entrevistas_a_profundidad." data-name="Entrevistas a profundidad." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Entrevistas a profundidad.</tspan></text>
+      </g>
+      <g id="Grupo_177156" data-name="Grupo 177156" transform="translate(203.83 13.193)">
+        <text id="_54" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177157" data-name="Grupo 177157" transform="translate(67.212 39.579)">
+        <text id="Grupo_focales." data-name="Grupo focales." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Grupo focales.</tspan></text>
+      </g>
+      <g id="Grupo_177158" data-name="Grupo 177158" transform="translate(165.27 33.925)">
+        <text id="_55" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177159" data-name="Grupo 177159" transform="translate(63.023 60.312)">
+        <text id="Redes_sociales." data-name="Redes sociales." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Redes sociales.</tspan></text>
+      </g>
+      <g id="Grupo_177160" data-name="Grupo 177160" transform="translate(169.459 54.657)">
+        <text id="_56" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177161" data-name="Grupo 177161" transform="translate(39.99 79.159)">
+        <text id="Comprador_misterioso." data-name="Comprador misterioso." transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Comprador misterioso.</tspan></text>
+      </g>
+      <g id="Grupo_177162" data-name="Grupo 177162" transform="translate(192.492 73.505)">
+        <text id="_57" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177163" data-name="Grupo 177163" transform="translate(63.432 99.891)">
+        <text id="Pruebas_de_uso" data-name="Pruebas de uso" transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Pruebas de uso</tspan></text>
+      </g>
+      <g id="Grupo_177164" data-name="Grupo 177164" transform="translate(169.05 94.237)">
+        <text id="_58" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177165" data-name="Grupo 177165" transform="translate(116.241 118.738)">
+        <text id="_59" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_177173" data-name="Grupo 177173" transform="translate(490.113 1910.068)" clip-path="url(#clip-path-25)">
+      <g id="Grupo_177167" data-name="Grupo 177167" transform="translate(40.624 0)">
+        <text id="Preventa." transform="translate(0 18)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Preventa.</tspan></text>
+      </g>
+      <g id="Grupo_177168" data-name="Grupo 177168" transform="translate(105.161 -5.654)">
+        <text id="_60" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177169" data-name="Grupo 177169" transform="translate(51.096 18.847)">
+        <text id="Venta." transform="translate(0 18)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Venta.</tspan></text>
+      </g>
+      <g id="Grupo_177170" data-name="Grupo 177170" transform="translate(94.688 13.193)">
+        <text id="_61" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+      <g id="Grupo_177171" data-name="Grupo 177171" transform="translate(39.365 41.464)">
+        <text id="Posventa." transform="translate(0 18)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Posventa.</tspan></text>
+      </g>
+      <g id="Grupo_177172" data-name="Grupo 177172" transform="translate(106.42 35.81)">
+        <text id="_62" data-name=" " transform="translate(0 17)" font-size="19" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_177175" data-name="Grupo 177175">
+      <text id="Plan_de_" data-name="Plan de " transform="translate(533.508 1355.754)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Plan de </tspan></text>
+      <text id="marketing-3" data-name="marketing" transform="translate(497.694 1380.256)" font-size="16" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0">marketing</tspan></text>
+      <text id="digital-2" data-name="digital" transform="translate(576.884 1380.256)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0em"><tspan x="0" y="0">digital</tspan></text>
+    </g>
+  </g>
+</svg>

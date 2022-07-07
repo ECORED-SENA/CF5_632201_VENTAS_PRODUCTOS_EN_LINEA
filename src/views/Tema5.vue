@@ -16,7 +16,7 @@
             .row.mb-3
               .col-9.ms-2
                 img(src='@/assets/curso/tema5/img01.svg')
-            p.text-center El aumento de las ventas online. 
+            p.text-center El aumento de las ventas #[i online]. 
           .tarjeta.BG27.p-4
             .row.mb-3
               .col-9.ms-2
@@ -59,7 +59,7 @@
           .col-9
             p La investigación de mercados es el compendio y posterior estudio detallado de la información y de los datos recopilados de forma sistemática por medio de diversas técnicas, canales y otras herramientas. Para el caso del mercadeo digital, este tipo de estudios se realizan dentro del entorno virtual. Es un factor a menudo determinante para la toma de decisiones estratégicas, no solo dentro del área de mercadeo, sino que puede permear a otras áreas de la organización.
         .cajon.color-acento-botones.p-3.px-4.mb-4
-          p Basado en lo anterior, cabe preguntarse, ¿por qué se debe hacer una investigación de mercados online? Con el fin de identificar las razonas para realizar una investigación, como se muestra en la siguiente figura.
+          p Basado en lo anterior, cabe preguntarse, ¿por qué se debe hacer una investigación de mercados #[i online]? Con el fin de identificar las razonas para realizar una investigación, como se muestra en la siguiente figura.
       .col-md-4.col-8.order-md-2.order-1
         figure
           img(src='@/assets/curso/tema4/img11.png')
@@ -69,7 +69,7 @@
       .col-md-10.col-12.mb-3
         .titulo-sexto.color-acento-botones(data-aos="fade-right")
           h5 Figura 3
-          span Razones para hacer una investigación de mercados online
+          span Razones para hacer una investigación de mercados #[i online]
         figure(data-aos="fade-right")
           img.p-0(src='@/assets/curso/tema5/img08.svg')
     
@@ -122,7 +122,7 @@
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0
             h3 Grupo focal
-            p O focus group, se define como un grupo de debate o discusión compuesto por 10 a 15 participantes de un perfil predeterminado que son dirigidos por un moderador que conduce una conversación que busca ahondar en las opiniones, preferencias, quejas o comentarios de un producto o servicio determinado.
+            p O #[i focus group], se define como un grupo de debate o discusión compuesto por 10 a 15 participantes de un perfil predeterminado que son dirigidos por un moderador que conduce una conversación que busca ahondar en las opiniones, preferencias, quejas o comentarios de un producto o servicio determinado.
             p Es importante definir previamente los criterios de selección de los participantes, así como el del segmento de mercado al cual pertenece cada uno.
             .tarjeta-avatar-b.mb-3
               .tarjeta-avatar-b__img
@@ -148,7 +148,7 @@
                 figure
                   img.p-0(src='@/assets/curso/tema5/img12.svg')
               .col-9
-                p En el caso del marketing digital, las redes sociales resultan ser, en términos de información, un recurso con una cantidad de datos que no son despreciables bajo ningún sentido. Al contrario, las redes sociales constituyen muchas veces la fuente principal para una investigación de mercados hoy en día en la era de hiperconectividad.
+                p En el caso del #[i marketing] digital, las redes sociales resultan ser, en términos de información, un recurso con una cantidad de datos que no son despreciables bajo ningún sentido. Al contrario, las redes sociales constituyen muchas veces la fuente principal para una investigación de mercados hoy en día en la era de hiperconectividad.
             .cajon.color-acento-botones.p-3.px-4.mb-4
               p.mb-0 <b>Principales herramientas</b>: (Google AdWords y Facebook) son plataformas analíticas, muchas veces integradas a las mismas redes que arrojan datos importantes de diversos tipos: 
           .col-md-6.mb-4.mb-md-0
@@ -170,7 +170,7 @@
                   li.mb-3
                     .lista-vineta3
                     | Hábitos de consumo, entre otros.
-            p Estos, son posteriormente analizados para realizar segmentaciones, perfiles, buyer persona, etc.
+            p Estos, son posteriormente analizados para realizar segmentaciones, perfiles, #[i buyer persona], etc.
       .py-3.py-md-4(titulo="Comprador misterioso")
         .row.justify-content-center
           .col-md-11.mb-4.mb-md-0
@@ -213,7 +213,7 @@
                     .lista-vineta3
                     | Proporcionar un cuestionario para recibir retroalimentación posterior al periodo de prueba, entre otros. 
 
-    h5.mb-5 Después de entender los conceptos básicos y técnicas que integran una investigación de mercados online, se puede resumir su realización en siete etapas: 
+    h5.mb-5 Después de entender los conceptos básicos y técnicas que integran una investigación de mercados #[i online], se puede resumir su realización en siete etapas: 
 
     .row.justify-content-center.align-items-center
       .col-md-4.col-8.mb-3
@@ -226,7 +226,7 @@
             | Ubicación de conceptos claves.
           li.mb-3
             .lista-vineta3
-            | Revisión de blogs y recursos <em>online</em>.
+            | Revisión de #[i blogs] y recursos #[i online].
           li.mb-3
             .lista-vineta3
             | Estudio de la competencia.
@@ -254,7 +254,7 @@
       .col-md-8.col-12
         .titulo-sexto.color-acento-botones(data-aos="fade-right")
           h5 Figura 4 
-          span Cómo realizar una investigación de mercados online
+          span Cómo realizar una investigación de mercados #[i online]
         figure(data-aos="fade-right")
           img.p-0(src='@/assets/curso/tema5/img18.svg')
 
@@ -271,7 +271,7 @@
             figure
               img.p-0(src='@/assets/curso/tema5/img19.svg')
           .col-9
-            p Este tipo de investigación tiene como objetivo comprender la manera como el consumidor percibe la experiencia de compra y uso del producto o servicio. Hoy en día mediante herramientas como newsletters, códigos QR o plataformas de encuestas es más sencillo tener acceso a esta información; en ocasiones esta se intercambia con el cliente por beneficios y descuentos. 
+            p Este tipo de investigación tiene como objetivo comprender la manera como el consumidor percibe la experiencia de compra y uso del producto o servicio. Hoy en día mediante herramientas como #[i newsletters], códigos QR o plataformas de encuestas es más sencillo tener acceso a esta información; en ocasiones esta se intercambia con el cliente por beneficios y descuentos. 
       .tarjeta.color-acento-botones--borde.p-4(titulo="Para el lanzamiento de <br> un producto o servicio")
         h4 Para el lanzamiento de un producto o servicio
         .row.justify-content-center.align-items-center
@@ -307,7 +307,7 @@
           .tarjeta.BG28
             .p-3.pt-xl-5.pt-lg-3
               h5.text-white Datos cualitativos
-              p.text-white Se basan en relatos o textos que pueden ayudar a entender acciones o comportamientos. Por ejemplo, los focus group o las entrevistas en profundidad se basan en el análisis de datos cualitativos en donde los participantes expresan de manera muy detallada preferencias y gustos.
+              p.text-white Se basan en relatos o textos que pueden ayudar a entender acciones o comportamientos. Por ejemplo, los #[i focus group] o las entrevistas en profundidad se basan en el análisis de datos cualitativos en donde los participantes expresan de manera muy detallada preferencias y gustos.
 
     .row.justify-content-center.BG04.p-4
       .col-md-1.col-4.mb-md-0.mb-4

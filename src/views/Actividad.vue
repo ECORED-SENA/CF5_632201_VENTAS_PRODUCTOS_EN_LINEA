@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Conceptos generales de marketing digital
+          h2 Conceptos generales de #[i marketing] digital
         p.mb-4 Identificar los conceptos generales en relación con #[i marketing], plan y estrategias de #[i marketing] digital.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

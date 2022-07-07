@@ -18,7 +18,7 @@
             figure
               img(src='@/assets/curso/tema1/img08.svg')
           .col-11
-            p La planificación estratégica de una compañía debe estar enfocada en el comprador y usuario del producto o servicio que se está promocionando, y conocer las necesidades y expectativas del consumidor es indispensable para la creación de una campaña de marketing digital. Por este motivo, existen diferentes herramientas que permiten a la compañía segmentar su público y hacer un perfilamiento que facilitará el proceso de identificación del cliente ideal y a su vez será un insumo importante a la hora de elegir los canales de acercamiento más eficientes. 
+            p La planificación estratégica de una compañía debe estar enfocada en el comprador y usuario del producto o servicio que se está promocionando, y conocer las necesidades y expectativas del consumidor es indispensable para la creación de una campaña de #[i marketing] digital. Por este motivo, existen diferentes herramientas que permiten a la compañía segmentar su público y hacer un perfilamiento que facilitará el proceso de identificación del cliente ideal y a su vez será un insumo importante a la hora de elegir los canales de acercamiento más eficientes. 
         .cajon.color-acento-botones.subir01.p-3.px-4.mb-4
           h5 Cuando se habla de segmentar el mercado, se refiere a la división del mercado total en pequeños grupos de clientes potenciales o consumidores que se diferencian en términos así:
     
@@ -28,13 +28,13 @@
           .col-10
             figure
               img(src='@/assets/curso/tema2/img02.svg')
-        p Por eso, uno de los objetivos de la segmentación es encontrar en estos pequeños grupos una homogeneización que permita describir a qué perfil pertenecen los clientes potenciales y, a su vez, agruparlos por gustos y necesidades similares y desarrollar estrategias de marketing diferenciadas para cada uno de estos grupos.
+        p Por eso, uno de los objetivos de la segmentación es encontrar en estos pequeños grupos una homogeneización que permita describir a qué perfil pertenecen los clientes potenciales y, a su vez, agruparlos por gustos y necesidades similares y desarrollar estrategias de #[i marketing] diferenciadas para cada uno de estos grupos.
         .row.mb-4.p-4.pb-5
           .col-1
             figure
               img(src='@/assets/curso/tema1/img08.svg')
           .col-11
-            p Es así como la segmentación de un público objetivo es el proceso en el cual se separan los consumidores y clientes en diferentes grupos según criterios determinados, como por ejemplo sus intereses y necesidades, permitiendo conocer mejor sus preferencias. El proceso de segmentación será indispensable para la construcción de una campaña de marketing digital.
+            p Es así como la segmentación de un público objetivo es el proceso en el cual se separan los consumidores y clientes en diferentes grupos según criterios determinados, como por ejemplo sus intereses y necesidades, permitiendo conocer mejor sus preferencias. El proceso de segmentación será indispensable para la construcción de una campaña de #[i marketing] digital.
       .col-md-4.col-8.mb-2.p-0
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img03.png')
@@ -59,7 +59,7 @@
               h5.mb-0.text-center Datos de venta
           .col-5 
             .BG11.p-4.mb-4
-              h5.mb-0.text-center Datos del sitio web
+              h5.mb-0.text-center Datos del sitio #[i web]
           .col-5 
             .BG11.p-4.mb-4
               h5.mb-0.text-center Llamadas telefónicas

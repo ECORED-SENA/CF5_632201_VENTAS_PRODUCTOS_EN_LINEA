@@ -13,7 +13,7 @@
           img(src='@/assets/curso/tema4/img01.png')
       .col-md-10.col-11
         .BG23.p-4
-          p <b>Una propuesta comercial se define como un documento-herramienta en el que se consigna toda la información relevante para explicar, sostener y maravillar al segmento objetivo con la oferta de producto o servicio que se está ofreciendo. Por este motivo se considera de alta importancia dentro de una estrategia de marketing digital. </b>
+          p <b>Una propuesta comercial se define como un documento-herramienta en el que se consigna toda la información relevante para explicar, sostener y maravillar al segmento objetivo con la oferta de producto o servicio que se está ofreciendo. Por este motivo se considera de alta importancia dentro de una estrategia de #[i marketing] digital. </b>
         
     .BG08.px-4
       .row
@@ -95,71 +95,39 @@
       .col-md-4.col-8.order-md-2.order-1
         figure
           img(src='@/assets/curso/tema4/img11.png')
+    
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      .tarjeta.BG26.p-4
+        .row.justify-content-center.mb-3
+          .col-6
+            img(src='@/assets/curso/tema4/img25.svg' alt='AvatarTop')
+        p.text-center Reseña descriptiva o descripción corta del producto o servicio.
+      .tarjeta.BG26.p-4
+        .row.justify-content-center.mb-3
+          .col-6
+            img(src='@/assets/curso/tema4/img26.svg' alt='AvatarTop')
+        p.text-center Explicación de la manera como el producto o servicio ofrecido satisfará las necesidades del cliente.
+      .tarjeta.BG26.p-4
+        .row.justify-content-center.mb-3
+          .col-6
+            img(src='@/assets/curso/tema4/img27.svg' alt='AvatarTop')
+        p.text-center Metodología, plazos y calendario del proyecto, producto o servicio a desarrollar.
+      .tarjeta.BG26.p-4
+        .row.justify-content-center.mb-3
+          .col-6
+            img(src='@/assets/curso/tema4/img28.svg' alt='AvatarTop')
+        p.text-center Entregables (si aplica).
+      .tarjeta.BG26.p-4
+        .row.justify-content-center.mb-3
+          .col-6
+            img(src='@/assets/curso/tema4/img29.svg' alt='AvatarTop')
+        p.text-center Valor del producto y servicio y formas de pago.
+      .tarjeta.BG26.p-4
+        .row.justify-content-center.mb-3
+          .col-6
+            img(src='@/assets/curso/tema4/img30.svg' alt='AvatarTop')
+        p.text-center Términos y condiciones que acuerdan la compañía y el cliente para la puesta en marcha del proyecto o compra del producto o servicio.
 
-    SlyderA.BGIMG10.p-3.mb-5(tipo="b")(data-aos="fade-right")
-      .row.justify-content-center.align-items-center.p-4
-        .col-md-4.col-8.mb-md-0.mb-4
-          figure.ms-5
-            img(src='@/assets/curso/tema4/img12.svg')
-        .col-md-6.col-10.BGIMG11.pt-5
-          .row.justify-content-center.align-items-end.pt-5
-            .col-12
-              h4 Formación de expectativas
-              p.mb-0 Es aquí donde se enfatiza sobre lo que se quiere lograr. Resulta muy útil apelar a las emociones del cliente y mostrar el deseo por comenzar un nuevo reto, así como enfatizar las expectativas reales en el tiempo y como sus resultados se desarrollarán e impactarán positivamente a largo, mediano y corto plazo.
-      .row.justify-content-center.align-items-center.p-4
-        .col-md-4.col-8.mb-md-0.mb-4
-          figure
-            img(src='@/assets/curso/tema4/img13.svg')
-        .col-md-6.col-10.BGIMG12.pt-5
-          .row.justify-content-center.align-items-end.pt-5
-            .col-12
-              h4 Identificación del problema
-              p.mb-0 Es indispensable, en este momento, demostrarle al cliente que sus preocupaciones fueron entendidas y recibidas. Que para la compañía es de gran interés comprender sus necesidades y que a su vez esta se esfuerza por presentar posibles soluciones que lo satisfagan. Para lograr que el cliente se identifique más con la propuesta se pueden incluir frases o palabras que el cliente haya manifestado previamente en el briefing.
-      .row.justify-content-center.align-items-center.p-4
-        .col-md-4.col-8.mb-md-0.mb-4
-          figure.ms-5
-            img(src='@/assets/curso/tema4/img14.svg')
-        .col-md-6.col-10.BGIMG13.pt-5
-          .row.justify-content-center.align-items-end.pt-5
-            .col-12
-              h4 Marco actual
-              p.mb-0 Es acá donde se deja claro el proceso, el camino por el cual se le va a dar solución al problema planteado anteriormente. Se debe realizar un planteamiento diferencial donde se muestre el estado actual de la empresa y cómo se verá cuándo se implementen las soluciones planteadas.
-      .row.justify-content-center.align-items-center.p-4
-        .col-md-6.col-10.BGIMG14.pt-5
-          .row.justify-content-center.align-items-end.pt-5
-            .col-12
-              h4 Competencia
-              p.mb-0 Por medio del análisis de las propuestas de la competencia se tendrá una visión más clara y efectiva de hasta dónde se puede llegar y/o mostrar el valor agregado de la propuesta de la compañía. 
-        .col-md-4.col-8.mb-md-0.mb-4
-          figure
-            img(src='@/assets/curso/tema4/img15.svg')
-      .row.justify-content-center.align-items-center.p-4
-        .col-md-4.col-8.mb-md-0.mb-4
-          figure.ms-5
-            img(src='@/assets/curso/tema4/img16.svg')
-        .col-md-6.col-10.BGIMG15.pt-5
-          .row.justify-content-center.align-items-end.pt-5
-            .col-12
-              h4 Propósito
-              p.mb-0 Se deben dejar claros, de la manera más concreta y directa, los propósitos y objetivos de la propuesta. Se especifica la meta a alcanzar, mas no las acciones, objetos y/o estrategias a abordar para hacerlo; se debe ser muy claro en diferenciar estos dos momentos. 
-      .row.justify-content-center.align-items-center.p-4
-        .col-md-6.col-10.BGIMG16.pt-5.mb-md-0.mb-4
-          .row.justify-content-center.align-items-end.pt-5
-            .col-12
-              h4 Estimación de costos
-              p.mb-0 Es esta etapa se le pone el valor de costo del producto o servicio. Es importante que por medio de herramientas como el ROI se establezcan los valores claros de retorno sobre la inversión. También pueden incluirse las formas y plazos de pago, estrategias de financiamiento, costos complementarios o presupuestos adicionales, etc.
-        .col-md-4.col-8
-          figure
-            img(src='@/assets/curso/tema4/img17.svg')
-      .row.justify-content-center.align-items-center.p-4
-        .col-md-4.col-8.mb-md-0.mb-4
-          figure.ms-5
-            img(src='@/assets/curso/tema4/img18.svg')
-        .col-md-6.col-10.BGIMG17.pt-5
-          .row.justify-content-center.align-items-end.pt-5
-            .col-12
-              h4 Plan de acción
-              p.mb-0 Aquí se describe cómo se van a llevar a cabo todas las actividades para lograr el éxito y las posibilidades de realización en el tiempo. 
     
   .container.container02.p-4.p-md-5
     p.mb-5 Así mismo, se pueden mencionar varias etapas importantes dentro del proceso de diseño y construcción de una propuesta comercial: 
@@ -170,7 +138,7 @@
           img(src='@/assets/curso/tema4/img19.png')
       .col-md-8.col-12.mb-3
         LineaTiempoD.color-acento-contenido(data-aos="fade-right")
-          .row.justify-content-center.align-items-center(numero="1" titulo="Etapa 1. Calificación y briefing")
+          .row.justify-content-center.align-items-center(numero="1" titulo="Etapa 1. Calificación y <em>briefing</em>")
             .col-12             
               p Esta primera etapa se divide en dos componentes. Por un lado, se encuentra el componente de calificación, en donde se estudiará el tamaño de la compañía, qué tan rentable le resulta el desarrollo de la propuesta comercial y si la inversión en la que se incurrirá tendrá buenos resultados en términos de tiempo y rendimientos financieros. También es importante analizar las inversiones del pasado en términos de propuesta comercial para calificar qué impacto tuvieron estas en la compañía en el pasado. 
               .row.justify-content-center
@@ -179,10 +147,10 @@
                     img(src='@/assets/curso/tema4/img20.svg')
                 .col-9
                   .cajon.color-acento-botones.p-3.px-4.mb-4
-                    p Por el otro, se encuentra la etapa de briefing, en donde por medio de la realización de preguntas se entienden directamente las necesidades del cliente. En este momento no se presentan soluciones a las necesidades, el briefing en este caso brindará apoyo en el establecimiento de credibilidad y confianza con el cliente.
+                    p Por el otro, se encuentra la etapa de #[i briefing], en donde por medio de la realización de preguntas se entienden directamente las necesidades del cliente. En este momento no se presentan soluciones a las necesidades, el #[i briefing] en este caso brindará apoyo en el establecimiento de credibilidad y confianza con el cliente.
           .row.justify-content-center.align-items-center(numero="2" titulo="Etapa 2. Edificación de la solución y presentación de la propuesta comercial")
             .col-12             
-              p Durante esta etapa, como en la gran mayoría de los procesos de marketing digital, es de gran importancia entender el concepto de necesidad, pues cada cliente tiene una necesidad específica que está dispuesto a resolver. El reto consiste en proponer y consolidar soluciones y respuestas que atiendan esta necesidad y que a su vez se destaquen sobre las que ofrece la competencia y para llegar a construir estas soluciones, se toman los datos de la etapa anterior como insumo, en especial el briefing y complementarlos con otras herramientas como el análisis DOFA o Pestel. Esto permitirá encontrar soluciones efectivas e innovadoras que convenzan al cliente de adquirir el producto o servicio ofrecido. 
+              p Durante esta etapa, como en la gran mayoría de los procesos de #[i marketing] digital, es de gran importancia entender el concepto de necesidad, pues cada cliente tiene una necesidad específica que está dispuesto a resolver. El reto consiste en proponer y consolidar soluciones y respuestas que atiendan esta necesidad y que a su vez se destaquen sobre las que ofrece la competencia y para llegar a construir estas soluciones, se toman los datos de la etapa anterior como insumo, en especial el #[i briefing] y complementarlos con otras herramientas como el análisis DOFA o Pestel. Esto permitirá encontrar soluciones efectivas e innovadoras que convenzan al cliente de adquirir el producto o servicio ofrecido. 
               .tarjeta-avatar-b.mb-3
                 .tarjeta-avatar-b__img
                   img.px-2(src='@/assets/curso/tema4/img21.svg' alt='AvatarTop')
@@ -224,7 +192,7 @@
                   img.px-2(src='@/assets/curso/tema4/img23.svg' alt='AvatarTop')
                 .tarjeta.BG25
                   .p-3
-                    p El objetivo de esta construcción es darle cumplimiento a todas las metas y objetivos planteados con el control de gastos y presupuestos para garantizar el éxito de la campaña de marketing digital. Estas herramientas también sirven para cuantificar la campaña y analizar el comportamiento que han tenido los clientes. 
+                    p El objetivo de esta construcción es darle cumplimiento a todas las metas y objetivos planteados con el control de gastos y presupuestos para garantizar el éxito de la campaña de #[i marketing] digital. Estas herramientas también sirven para cuantificar la campaña y analizar el comportamiento que han tenido los clientes. 
     separador
 
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -246,38 +214,71 @@
         figure(data-aos="fade-left")
           img(src='@/assets/curso/tema4/img24.png')
 
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.BG26.p-4
-        .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/tema4/img25.svg' alt='AvatarTop')
-        p.text-center Reseña descriptiva o descripción corta del producto o servicio.
-      .tarjeta.BG26.p-4
-        .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/tema4/img26.svg' alt='AvatarTop')
-        p.text-center Explicación de la manera como el producto o servicio ofrecido satisfará las necesidades del cliente.
-      .tarjeta.BG26.p-4
-        .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/tema4/img27.svg' alt='AvatarTop')
-        p.text-center Metodología, plazos y calendario del proyecto, producto o servicio a desarrollar.
-      .tarjeta.BG26.p-4
-        .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/tema4/img28.svg' alt='AvatarTop')
-        p.text-center Entregables (si aplica).
-      .tarjeta.BG26.p-4
-        .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/tema4/img29.svg' alt='AvatarTop')
-        p.text-center Valor del producto y servicio y formas de pago.
-      .tarjeta.BG26.p-4
-        .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/tema4/img30.svg' alt='AvatarTop')
-        p.text-center Términos y condiciones que acuerdan la compañía y el cliente para la puesta en marcha del proyecto o compra del producto o servicio.
-
+    SlyderA.BGIMG10.p-3.mb-5(tipo="b")(data-aos="fade-right")
+      .row.justify-content-center.align-items-center
+        .col-md-4.col-8.mb-md-0.mb-4
+          figure
+            img(src='@/assets/curso/tema4/img12.svg')
+        .col-md-6.col-10.BGIMG11
+          .row.justify-content-center.align-items-end
+            .col-12
+              h4 Formación de expectativas
+              p.mb-0 Es aquí donde se enfatiza sobre lo que se quiere lograr. Resulta muy útil apelar a las emociones del cliente y mostrar el deseo por comenzar un nuevo reto, así como enfatizar las expectativas reales en el tiempo y como sus resultados se desarrollarán e impactarán positivamente a largo, mediano y corto plazo.
+      .row.justify-content-center.align-items-center
+        .col-md-4.col-8.mb-md-0.mb-4
+          figure
+            img(src='@/assets/curso/tema4/img13.svg')
+        .col-md-6.col-10.BGIMG12
+          .row.justify-content-center.align-items-end
+            .col-12
+              h4 Identificación del problema
+              p.mb-0 Es indispensable, en este momento, demostrarle al cliente que sus preocupaciones fueron entendidas y recibidas. Que para la compañía es de gran interés comprender sus necesidades y que a su vez esta se esfuerza por presentar posibles soluciones que lo satisfagan. Para lograr que el cliente se identifique más con la propuesta se pueden incluir frases o palabras que el cliente haya manifestado previamente en el #[i briefing].
+      .row.justify-content-center.align-items-center
+        .col-md-4.col-8.mb-md-0.mb-4
+          figure
+            img(src='@/assets/curso/tema4/img14.svg')
+        .col-md-6.col-10.BGIMG13
+          .row.justify-content-center.align-items-end
+            .col-12
+              h4 Marco actual
+              p.mb-0 Es acá donde se deja claro el proceso, el camino por el cual se le va a dar solución al problema planteado anteriormente. Se debe realizar un planteamiento diferencial donde se muestre el estado actual de la empresa y cómo se verá cuándo se implementen las soluciones planteadas.
+      .row.justify-content-center.align-items-center
+        .col-md-6.col-10.BGIMG14
+          .row.justify-content-center.align-items-end
+            .col-12
+              h4 Competencia
+              p.mb-0 Por medio del análisis de las propuestas de la competencia se tendrá una visión más clara y efectiva de hasta dónde se puede llegar y/o mostrar el valor agregado de la propuesta de la compañía. 
+        .col-md-4.col-8.mb-md-0.mb-4
+          figure
+            img(src='@/assets/curso/tema4/img15.svg')
+      .row.justify-content-center.align-items-center
+        .col-md-4.col-8.mb-md-0.mb-4
+          figure
+            img(src='@/assets/curso/tema4/img16.svg')
+        .col-md-6.col-10.BGIMG15
+          .row.justify-content-center.align-items-end
+            .col-12
+              h4 Propósito
+              p.mb-0 Se deben dejar claros, de la manera más concreta y directa, los propósitos y objetivos de la propuesta. Se especifica la meta a alcanzar, mas no las acciones, objetos y/o estrategias a abordar para hacerlo; se debe ser muy claro en diferenciar estos dos momentos. 
+      .row.justify-content-center.align-items-center
+        .col-md-6.col-10.BGIMG16.mb-md-0.mb-4
+          .row.justify-content-center.align-items-end
+            .col-12
+              h4 Estimación de costos
+              p.mb-0 Es esta etapa se le pone el valor de costo del producto o servicio. Es importante que por medio de herramientas como el ROI se establezcan los valores claros de retorno sobre la inversión. También pueden incluirse las formas y plazos de pago, estrategias de financiamiento, costos complementarios o presupuestos adicionales, etc.
+        .col-md-4.col-8
+          figure
+            img(src='@/assets/curso/tema4/img17.svg')
+      .row.justify-content-center.align-items-center
+        .col-md-4.col-8.mb-md-0.mb-4
+          figure
+            img(src='@/assets/curso/tema4/img18.svg')
+        .col-md-6.col-10.BGIMG17
+          .row.justify-content-center.align-items-end
+            .col-12
+              h4 Plan de acción
+              p.mb-0 Aquí se describe cómo se van a llevar a cabo todas las actividades para lograr el éxito y las posibilidades de realización en el tiempo. 
+    
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-12
@@ -302,7 +303,7 @@
               h3.mb-1 Llamado a la acción
               p.text-small Para conocer los pasos para elaborar una propuesta comercial, descritos en la anterior figura, se invita al aprendiz ver el video Propuesta comercial
             .col-sm-auto
-              a.boton.color-acento-botones(href="https://www.youtube.com/embed/2L91WMqw96A" target="_blank")
+              a.boton.color-acento-botones(href="https://www.youtube.com/embed/j5B7j8IR7bg" target="_blank")
                 span Ver video
 
 
