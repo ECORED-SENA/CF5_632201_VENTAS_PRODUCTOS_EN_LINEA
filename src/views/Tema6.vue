@@ -101,7 +101,7 @@
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Etapa 1. Preventa
-              p.mb-0 En esta etapa el comprador consulta fuentes de información, evalúa las diferentes opciones de compra (en donde potencialmente se encuentra la competencia), realiza una lista de las mejores opciones, evalúa ofertas, etc., y aquí la estrategia de marketing debe atraer la atención del cliente y destacar dentro de la competencia. En el entorno digital también es un espacio en donde se puede someter al cliente a prototipos, o #[i crowdfundings] en donde se quiere llamar la atención del cliente potencial para que invierta en el producto antes de que esté disponible. Se debe apelar a emociones ligadas a la expectativa, por eso es la etapa en donde también se introducen nuevos productos o servicios.        
+              p.mb-0 En esta etapa el comprador consulta fuentes de información, evalúa las diferentes opciones de compra (en donde potencialmente se encuentra la competencia), realiza una lista de las mejores opciones, evalúa ofertas, etc., y aquí la estrategia de #[i marketing] debe atraer la atención del cliente y destacar dentro de la competencia. En el entorno digital también es un espacio en donde se puede someter al cliente a prototipos, o #[i crowdfundings] en donde se quiere llamar la atención del cliente potencial para que invierta en el producto antes de que esté disponible. Se debe apelar a emociones ligadas a la expectativa, por eso es la etapa en donde también se introducen nuevos productos o servicios.        
       .row.justify-content-center.align-items-center.p-4        
         .col-md-6.BGIMG12.pt-5
           .row.justify-content-center.align-items-end.pt-5

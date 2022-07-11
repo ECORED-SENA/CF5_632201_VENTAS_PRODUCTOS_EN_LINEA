@@ -346,6 +346,27 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+      {
+        nombre: 'Stephanie Ascanio',
+        cargo: 'Experto temático',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Gustavo Santis Mancipe',
+        cargo: 'Diseñador instruccional',
+        centro: 'Regional Distrito Capital – Centro de Gestión Industrial',
+      },
+      {
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Asesora metodológica',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología.',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología.',
+      },
     ],
     desarrolloProducto: [
       {
@@ -420,7 +441,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Melina Tatiana Quintero Rodriguez',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

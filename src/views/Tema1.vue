@@ -61,13 +61,13 @@
           .row.justify-content-center.align-items-center(numero="1" titulo="Mayor rendimiento")
             .col-md-2.col-4.mb-md-0.mb-4
               figure
-                img(src='@/assets/curso/tema1/img11.svg') 
+                img(src='@/assets/curso/tema1/img11.svg')
             .col-md-8.col-11
               p Bajo costo en comparación con una campaña de mercadeo tradicional, a lo que se suma el mayor control que se tiene frente a la respuesta que tendrá el producto o servicio de cara a los clientes.
           .row.justify-content-center.align-items-center(numero="2" titulo="Mayor variedad de herramientas analíticas")
             .col-md-2.col-4.mb-md-0.mb-4
               figure
-                img(src='@/assets/curso/tema1/img12.svg') 
+                img(src='@/assets/curso/tema1/img12.svg')
             .col-md-8.col-11
               p Debido a que el seguimiento de este tipo de campañas se realiza en el entorno digital, la gran cantidad de datos que se obtienen de la operación puede contribuir a realizar un control más estricto del retorno de la inversión (ROI) que se destina para mercadeo.
             .col-12
@@ -76,7 +76,7 @@
           .row.justify-content-center.align-items-center(numero="3" titulo="Alcance global")
             .col-md-2.col-4.mb-md-0.mb-4
               figure
-                img(src='@/assets/curso/tema1/img13.svg') 
+                img(src='@/assets/curso/tema1/img13.svg')
             .col-md-8.col-11
               p Por medio del mercadeo digital se puede abordar e interactuar con potenciales clientes en cualquier lugar del planeta de maneras muy variadas e innovadoras. Esto permite diseñar campañas de comunicación muy llamativas que no solo atraigan la atención de clientes potenciales, sino de otro tipo de medios digitales que pueden contribuir a su difusión. Estas dos características hacen que las campañas de mercadeo digital sean flexibles y permitan entablar un vínculo más directo con el cliente.
           .row.justify-content-center.align-items-center(numero="4" titulo="Precisión en el público objetivo")
@@ -84,14 +84,14 @@
               p Las campañas de mercadeo tradicional debían lanzarse hacia un público genérico del cual no se tenía más referencia que algunos datos demográficos básicos.
             .col-md-2.col-4.mb-md-0.mb-4
               figure
-                img(src='@/assets/curso/tema1/img14.svg') 
+                img(src='@/assets/curso/tema1/img14.svg')
             .col-md-10.col-7
               .cajon.color-acento-botones.p-3.px-4.mb-4
                 p Ahora con el <em>marketing</em> digital se puede apuntar a públicos objetivo que cumplan requisitos o perfiles específicos, logrando así eficacia. A esta característica se le conoce como hipersegmentación.
           .row.justify-content-center.align-items-center(numero="5" titulo="Inmediatez y fidelización")
             .col-md-2.col-4.mb-md-0.mb-4
               figure
-                img(src='@/assets/curso/tema1/img15.svg') 
+                img(src='@/assets/curso/tema1/img15.svg')
             .col-md-8.col-11
               p Las herramientas disponibles en el entorno digital permiten hacer un seguimiento en tiempo real de las campañas de mercadeo, lo cual posibilita la opción de realizar cambios y optimizaciones que tengan un impacto positivo en ellas. Esto sumado a las interacciones que también se generan en tiempo real, permiten construir lazos con el cliente, incluso más fuertes que los que se generan en el mundo <em>offline</em>.
   
@@ -112,7 +112,7 @@
                 p El plan de <em>marketing</em> debe tomar al cliente como punto de partida y no a los productos o servicios como se pensaría normalmente. Está ligado a los planes de otros departamentos dentro de la compañía como:
         .col-md-4.col-8.order-md-2.order-1.mb-md-0.mb-4
           figure.img01.p-0(data-aos="zoom-in")
-            img(src='@/assets/curso/tema1/img17.png') 
+            img(src='@/assets/curso/tema1/img17.png')
     
     .row.align-items-center.mb-4(data-aos="zoom-in")
       .col-md-2.col-4.me-3
@@ -120,7 +120,7 @@
           img(src='@/assets/curso/tema1/img18.png')
       .col-md-2.col-4
         figure.img02
-          img(src='@/assets/curso/tema1/img19.png')  
+          img(src='@/assets/curso/tema1/img19.png')
 
     .cajon.color-acento-botones.p-4.px-4.mb-4(data-aos="fade-right")
       p Los objetivos de este plan deben ser cuantificables, logrables, alineados con la realidad y factibles a corto, mediano y largo plazo, porque sin planeación no se llegará al éxito. En este plan también se consideran los análisis de mercadeo realizados en el pasado, metas de #[i marketing] por cumplir, estrategias a implementar y cronogramas. La disposición para llevar a cabo un plan de #[i marketing] digital con éxito marca la diferencia dentro de un sector o actividad económica, debido a que no solamente interpreta los sucesos previos dentro de la compañía, sino que también propone y define el rumbo que esta debe tomar para asegurar el cumplimiento de los objetivos que se planteen. 
@@ -133,7 +133,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-md-7.col-10.mb-2
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img20.png')  
+          img(src='@/assets/curso/tema1/img20.png')
       .col-md-5.col-10
         SlyderF.mb-5(columnas="col-12")
           .tarjeta.BG09.p-4
@@ -637,7 +637,7 @@
               p.mb-0 A la hora de diseñar las campañas de mercadeo vía correo electrónico resulta de gran ayuda utilizar plantillas HTML que cuenten con diversas herramientas como #[i links] y contenido multimedia más que utilizar una simple imagen o texto. Esto generará mayor impacto y recordación y le dará más peso a los #[i call-to-action] que se implementen en él. 
         .col-md-3.col-10.ms-5
           figure
-            img(src='@/assets/curso/tema1/img85.svg')        
+            img(src='@/assets/curso/tema1/img85.svg')
       .row.justify-content-center.align-items-center.p-4
         .col-md-3.col-10
           figure.me-5
