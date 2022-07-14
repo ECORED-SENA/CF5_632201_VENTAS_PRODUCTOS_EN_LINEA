@@ -158,7 +158,7 @@ export default {
     {
       tema: 'Concepto y construcción de propuesta comercial',
       referencia:
-        'Da Silva, D. (2020). <em>Propuesta comercial: claves para hacer una que se destaque. </em>',
+        'Da Silva, D. (2020). <em>Aprende algunas claves para elaborar una propuesta comercial atractiva y destacable. </em>',
       tipo: 'Artículo',
       link: 'https://www.zendesk.com.mx/blog/propuesta-comercial/',
     },
@@ -280,7 +280,7 @@ export default {
     },
     {
       referencia:
-        'Da Silva, D. (2021).<em>Segmentación geográfica: ¿qué es y cómo hacerla?</em>',
+        'Da Silva, D. (2021).<em>¿Qué es segmentación geográfica? Importancia y beneficios</em>',
       link: 'https://www.zendesk.com.mx/blog/segmentacion-geografica',
     },
     {

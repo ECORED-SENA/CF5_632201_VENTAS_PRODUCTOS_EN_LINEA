@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span.text-white 6
-      h1 Psicología del consumidor y pro-consumidor digital
+      h1 Psicología del consumidor y proconsumidor digital
 
     .row.justify-content-center.align-items-center.mb-5
       .col-md-4.col-8.mb-2

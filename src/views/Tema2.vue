@@ -118,23 +118,23 @@
             p La segmentación geográfica se basa en dividir el mercado teniendo en cuenta factores como su localización geográfica, el clima que predomina donde se encuentra, densidad de población, extensión del lugar, etc. Se puede complementar este tipo de segmentación utilizando herramientas como el análisis Pestel que se basa en la consideración de factores políticos, económicos, sociales, tecnológicos, ambientales y legales. 
           .col-md-4.col-6
             figure
-              img(src='@/assets/curso/tema2/img10.svg') 
+              img(src='@/assets/curso/tema2/img10.svg')
       .py-4.py-md-5(titulo="Segmentación demográfica" :icono="require('@/assets/curso/tema2/img16.svg')")
         .row.justify-content-center.align-items-center
           .col-md-7.col-11
             h4.mb-3 Segmentación demográfica
-            p Esta variable de segmentación está basada en dividir el grupo de mercado según en cuenta factores como la edad, género, nivel educativo, religión, nivel de ingresos, composición familiar, profesión, estado civil, etnología, etc. Esta variable de segmentación requiere en muchos casos de herramientas de recopilación de datos con una complejidad mayor, pero contribuyen de sobremanera a lograr un perfilamiento más agudo del grupo de mercado. 
+            p Esta variable de segmentación está basada en dividir el grupo de mercado según factores como la edad, género, nivel educativo, religión, nivel de ingresos, composición familiar, profesión, estado civil, etnología, etc. Esta variable de segmentación requiere en muchos casos de herramientas de recopilación de datos con una complejidad mayor, pero contribuyen de sobremanera a lograr un perfilamiento más agudo del grupo de mercado. 
           .col-md-4.col-6
             figure
-              img(src='@/assets/curso/tema2/img11.svg') 
-      .py-4.py-md-5(titulo="Segmentación demográfica" :icono="require('@/assets/curso/tema2/img17.svg')")
+              img(src='@/assets/curso/tema2/img11.svg')
+      .py-4.py-md-5(titulo="Segmentación psicográfica" :icono="require('@/assets/curso/tema2/img17.svg')")
         .row.justify-content-center.align-items-center
           .col-md-7.col-11
             h4.mb-3 Segmentación psicográfica
             p La segmentación psicográfica se basa en el conocimiento del comportamiento del grupo de mercado según sus deseos aspiracionales, intereses, opiniones, estilo de vida y en general las demás variables que encierran una descripción a nivel social de un individuo o grupo de personas. 
           .col-md-4.col-6
             figure
-              img(src='@/assets/curso/tema2/img12.svg') 
+              img(src='@/assets/curso/tema2/img12.svg')
       .py-4.py-md-5(titulo="Segmentación conductual o por comportamiento" :icono="require('@/assets/curso/tema2/img18.svg')")
         .row.justify-content-center.align-items-center
           .col-md-7.col-11
@@ -142,7 +142,7 @@
             p Este uso de variables de segmentación se basa en analizar el comportamiento que se relaciona con el uso del producto o servicio como: momento del día en que se consume, qué tanto se utiliza o se consume el producto en el día, qué tan fidelizado está el cliente, cuáles son las reacciones o calificaciones frente al producto, qué tanto satisface las necesidades del cliente, entre otras. 
           .col-md-4.col-6
             figure
-              img(src='@/assets/curso/tema2/img13.svg') 
+              img(src='@/assets/curso/tema2/img13.svg')
       .py-4.py-md-5(titulo="Segmentación por sector en la industria" :icono="require('@/assets/curso/tema2/img19.svg')")
         .row.justify-content-center.align-items-center
           .col-md-7.col-11
@@ -150,7 +150,7 @@
             p Esta variable está destinada a contribuir en la incursión de mercados más especializados o en el caso de compañías centradas en el B2B. Se encarga de analizar el área o sector de mercado en el cual se quiere enfocar, por ejemplo, sector médico, agroindustria, moda, deportivo, de lujo, etc. Además de ser una variable de segmentación que puede ayudar a describir la situación actual del mercado, también permite identificar competidores y clientes potenciales.
           .col-md-4.col-6
             figure
-              img(src='@/assets/curso/tema2/img14.svg') 
+              img(src='@/assets/curso/tema2/img14.svg')
     .row.mb-5
       .col-auto.BG05
         h4.text-white.mb-0.py-2 La siguiente tabla establece algunas variables para los tipos de segmentación. 

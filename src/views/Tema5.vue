@@ -59,7 +59,7 @@
           .col-9
             p La investigación de mercados es el compendio y posterior estudio detallado de la información y de los datos recopilados de forma sistemática por medio de diversas técnicas, canales y otras herramientas. Para el caso del mercadeo digital, este tipo de estudios se realizan dentro del entorno virtual. Es un factor a menudo determinante para la toma de decisiones estratégicas, no solo dentro del área de mercadeo, sino que puede permear a otras áreas de la organización.
         .cajon.color-acento-botones.p-3.px-4.mb-4
-          p Basado en lo anterior, cabe preguntarse, ¿por qué se debe hacer una investigación de mercados #[i online]? Con el fin de identificar las razonas para realizar una investigación, como se muestra en la siguiente figura.
+          p Basado en lo anterior, cabe preguntarse, ¿por qué se debe hacer una investigación de mercados #[i online]? Con el fin de identificar las razones para realizar una investigación, como se muestra en la siguiente figura.
       .col-md-4.col-8.order-md-2.order-1
         figure
           img(src='@/assets/curso/tema4/img11.png')

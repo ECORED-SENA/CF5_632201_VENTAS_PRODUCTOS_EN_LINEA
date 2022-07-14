@@ -558,7 +558,7 @@
 
     SlyderA.BGIMG10.p-3.mb-5(tipo="b")(data-aos="fade-right")
       .row.justify-content-center.align-items-center.p-4
-        .col-md-5.BGIMG11.pt-5
+        .col-md-6.col-11.BGIMG11.py-5.mb-md-0.mb-4
           .row.justify-content-center.align-items-end.pt-5
             .col-11
               h4 Utilizar contenido llamativo en publicaciones y #[i newsletters]
@@ -570,13 +570,13 @@
         .col-md-4.col-8.me-5
           figure
             img(src='@/assets/curso/tema1/img69.svg')
-        .col-md-5.BGIMG12.pt-5
+        .col-md-5.col-11.BGIMG12.py-5.mb-md-0.mb-4
           .row.justify-content-center.align-items-end.pt-5
             .col-11
               h4 Incluir #[i call-to-action] (llamado a la acción) en página #[i web] y perfiles principales
               p.mb-0 Los llamados a la acción o #[i call-to-action], son botones o textos llamativos llamando al cliente a tomar la decisión de acercarse más al producto que se ofrece. Ejemplos de ellos son botones grandes y llamativos en los #[i landing pages], #[i newsletters] o portales de venta que invitan al cliente a suscribirse, a conocer más información, a comprar, comenzar, unirse entre otras acciones. Algunos ejemplos de #[i call-to-action] son: “Pruébalo gratis”, “Ponte al volante y genera ganancias”, “Obtén Premium”, “Regístrate ya para conocer los beneficios”. 
       .row.justify-content-center.align-items-center.p-4
-        .col-md-5.BGIMG13.pt-5
+        .col-md-6.col-11.BGIMG13.py-5.mb-md-0.mb-4
           .row.justify-content-center.align-items-end.pt-5
             .col-11
               h4 Consulta de palabras clave
@@ -588,13 +588,13 @@
         .col-md-3.col-10.me-5
           figure
             img(src='@/assets/curso/tema1/img71.svg')
-        .col-md-5.BGIMG14.pt-5
+        .col-md-5.col-11.BGIMG14.py-5.mb-md-0.mb-4
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Compartir enlaces en la firma del correo electrónico
               p.mb-0 Es muy común compartir enlaces de interés para el cliente en campañas de #[i newsletters]. Sin embargo, también se pueden compartir enlaces de #[i landing pages], redes sociales, catálogos #[i online], etc. en la firma de correos electrónicos institucionales u organizacionales que vayan dirigidos a proveedores, colegas, colaboradores, contratistas, etc. Esto da a conocer los diferentes canales de mercadeo digital que tiene una compañía y también mejora la imagen que ella refleja frente a su entorno digital. 
       .row.justify-content-center.align-items-center.p-4
-        .col-md-5.BGIMG15.pt-5
+        .col-md-6.col-11.BGIMG15.py-5.mb-md-0.mb-4
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Incluir botones para compartir en diferentes plataformas
@@ -606,13 +606,13 @@
         .col-md-4.col-8.me-5
           figure
             img(src='@/assets/curso/tema1/img82.svg')
-        .col-md-5.BGIMG16.pt-5
+        .col-md-6.col-11.BGIMG16.py-5.mb-md-0.mb-4
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Prestar atención a la repetición de contenido y compartir el contenido en todas las plataformas
               p.mb-0 Es importante generar contenido nuevo para cada plan de promoción y posicionamiento en redes sociales y no “reciclar” o repetir contenido antiguo. Esto contribuirá a una mayor aceptación por parte del algoritmo de las plataformas y apps. También es de gran ayuda hacer referencia de publicaciones que se encuentren alojadas en aplicaciones diferentes a la cual se está publicando.
       .row.justify-content-center.align-items-center.p-4
-        .col-md-5.BGIMG17.pt-5
+        .col-md-6.col-11.BGIMG17.py-5.mb-md-0.mb-4
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Incluir #[i landing pages] en las publicaciones
@@ -624,13 +624,13 @@
         .col-md-3.col-8.me-5
           figure
             img(src='@/assets/curso/tema1/img84.svg')
-        .col-md-5.BGIMG18.pt-5
+        .col-md-5.col-11.BGIMG18.py-5.mb-md-0.mb-4
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Destinar un presupuesto para promocionar ofertas vía redes sociales
               p.mb-0 Además de una planeación estratégica de las fechas y horas más sensibles al aumento de tráfico de clientes, es importante destinar un presupuesto para adquirir promociones pagadas en redes sociales ya que ellas se convierten en un puente con clústeres y grupos de personas que compartan intereses relacionados al producto que se ofrece. 
       .row.justify-content-center.align-items-center.p-4
-        .col-md-5.BGIMG19.pt-5
+        .col-md-6.col-11.BGIMG19.py-5.mb-md-0.mb-4
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Mayor calidad en el diseño de los #[i newsletters] y mercadeo de correo electrónico
@@ -642,13 +642,13 @@
         .col-md-3.col-10
           figure.me-5
             img(src='@/assets/curso/tema1/img86.svg')
-        .col-md-5.BGIMG20.pt-5
+        .col-md-5.col-11.BGIMG20.py-5.mb-md-0.mb-4
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Segmentación de destinatarios de #[i newsletters]
               p.mb-0 Al utilizar componentes de segmentación como características demográficas, edad, género o incluso perfilamientos de clientes más específicos garantizará que el contenido tenga mayor relevancia y vaya dirigido a quién realmente le interese. Esto, además, reducirá la percepción de que los comunicados enviados sean #[i spam] o correo no deseado.         
       .row.justify-content-center.align-items-center.p-4        
-        .col-md-5.BGIMG21.pt-5
+        .col-md-6.col-11.BGIMG21.py-5.mb-md-0.mb-4
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Envío de ofertas exclusivas
@@ -660,13 +660,13 @@
         .col-md-3.col-10
           figure.me-5
             img(src='@/assets/curso/tema1/img88.svg')
-        .col-md-5.BGIMG22.pt-5
+        .col-md-5.col-11.BGIMG22.py-5.mb-md-0.mb-4
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Crear #[i landing pages]
               p.mb-0 Si solo se cuenta con presencia en redes sociales, es de gran ayuda como estrategia para poner en marcha un plan de mercadeo, crear una landing page que redirija a todos los clientes a un solo lugar. Esta puede ser tan sencilla como una landing page informativa o incluir otro tipo de herramientas como pasarela de pago, catálogo de bienes y servicios, #[i blogs], etc.         
       .row.justify-content-center.align-items-center.p-4
-        .col-md-5.BGIMG23.pt-5
+        .col-md-5.col-11.BGIMG23.py-5.mb-md-0.mb-4
           .row.justify-content-center.align-items-end.pt-5
             .col-12
               h4 Complementar el sitio #[i web] con #[i pop-ups] promocionales

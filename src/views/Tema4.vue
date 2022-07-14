@@ -30,7 +30,7 @@
                 p La propuesta comercial es un atractivo para el consumidor, que lo orienta y lo lleva a tomar la decisión correcta de compra hacia el producto o servicio que se está ofreciendo. También puede ser un factor determinante en el proceso de fidelización del cliente y muchas veces representa una especie de carta de presentación de la compañía a su cliente potencial o público objetivo. 
         .col-md-4.col-8.order-md-2.order-1
           figure.p-0(data-aos="zoom-in")
-            img(src='@/assets/curso/tema4/img02.png')   
+            img(src='@/assets/curso/tema4/img02.png')
 
     separador.mb-2
 
@@ -41,7 +41,7 @@
     .row.justify-content-center.align-items-center
       .col-md-4.col-8.mb-3
         figure.p-0(data-aos="zoom-in")
-          img.img03(src='@/assets/curso/tema4/img05.png')  
+          img.img03(src='@/assets/curso/tema4/img05.png')
       .col-md-8.col-12.BG08.px-4.py-3.mb-3
         .row.p-4.pb-5        
           .col-1
@@ -81,7 +81,7 @@
             p.text-center Superioridad en la calidad
 
     .cajon.color-acento-contenido.p-3.px-4.mb-4
-      h5 Por otro lado, es importante detallar los tiempos de entrega, las condiciones de pago y los términos y condiciones que se suscriben en la propuesta comercial. Por este motivo, es necesario invertir el tiempo necesario para trazar los objetivos y la hoja de ruta para la construcción de este documento, que puede incluir entre otros elementos: diagramación, diseño, logos e imágenes que va a llevar, información va a llevar, tono y estilo de redacción.
+      h5 Por otro lado, es importante detallar los tiempos de entrega, las condiciones de pago y los términos y condiciones que se suscriben en la propuesta comercial. Por este motivo, es necesario invertir el tiempo necesario para trazar los objetivos y la hoja de ruta para la construcción de este documento, que puede incluir entre otros elementos: diagramación, diseño, logos e imágenes para usar, información que va a llevar, tono y estilo de redacción.
 
     .row.justify-content-center.align-items-center
       .col-md-8.col-12.BG01.p-4.order-md-1.order-2
@@ -90,7 +90,7 @@
             figure.p-0
               img.w-75(src='@/assets/curso/tema1/img08.svg')
           .col-9
-            p Para garantizar el éxito a la hora de diseñar una propuesta comercial importante describir, relatar y justificar todos los detalles del producto o servicio de una forma didáctica, con poco texto y gran ayuda audiovisual, para que el cliente se guíe por la experiencia que tendrá con el producto o servicio y sirva como impulsador para que el cliente tome la decisión de compra. Este documento es de gran ayuda para recordar los objetivos y las características diferenciales del producto o servicio que muchas veces se va perdiendo en el transcurrir del tiempo.
+            p Para garantizar el éxito a la hora de diseñar una propuesta comercial es importante describir, relatar y justificar todos los detalles del producto o servicio de una forma didáctica, con poco texto y gran ayuda audiovisual, para que el cliente se guíe por la experiencia que tendrá con el producto o servicio y sirva como impulsador para que el cliente tome la decisión de compra. Este documento es de gran ayuda para recordar los objetivos y las características diferenciales del producto o servicio que muchas veces se va perdiendo en el transcurrir del tiempo.
         p Existen elementos de una propuesta comercial que deben estar presentes y debidamente demarcados en el documento que se presente, como lo son:
       .col-md-4.col-8.order-md-2.order-1
         figure
@@ -219,7 +219,7 @@
         .col-md-4.col-8.mb-md-0.mb-4
           figure
             img(src='@/assets/curso/tema4/img12.svg')
-        .col-md-6.col-10.BGIMG11
+        .col-md-6.col-10.BGIMG11.py-5
           .row.justify-content-center.align-items-end
             .col-12
               h4 Formación de expectativas
@@ -228,7 +228,7 @@
         .col-md-4.col-8.mb-md-0.mb-4
           figure
             img(src='@/assets/curso/tema4/img13.svg')
-        .col-md-6.col-10.BGIMG12
+        .col-md-6.col-10.BGIMG12.py-5
           .row.justify-content-center.align-items-end
             .col-12
               h4 Identificación del problema
@@ -237,13 +237,13 @@
         .col-md-4.col-8.mb-md-0.mb-4
           figure
             img(src='@/assets/curso/tema4/img14.svg')
-        .col-md-6.col-10.BGIMG13
+        .col-md-6.col-10.BGIMG13.py-5
           .row.justify-content-center.align-items-end
             .col-12
               h4 Marco actual
               p.mb-0 Es acá donde se deja claro el proceso, el camino por el cual se le va a dar solución al problema planteado anteriormente. Se debe realizar un planteamiento diferencial donde se muestre el estado actual de la empresa y cómo se verá cuándo se implementen las soluciones planteadas.
       .row.justify-content-center.align-items-center
-        .col-md-6.col-10.BGIMG14
+        .col-md-5.col-10.BGIMG14.py-5
           .row.justify-content-center.align-items-end
             .col-12
               h4 Competencia
@@ -255,13 +255,13 @@
         .col-md-4.col-8.mb-md-0.mb-4
           figure
             img(src='@/assets/curso/tema4/img16.svg')
-        .col-md-6.col-10.BGIMG15
+        .col-md-6.col-10.BGIMG15.py-5
           .row.justify-content-center.align-items-end
             .col-12
               h4 Propósito
               p.mb-0 Se deben dejar claros, de la manera más concreta y directa, los propósitos y objetivos de la propuesta. Se especifica la meta a alcanzar, mas no las acciones, objetos y/o estrategias a abordar para hacerlo; se debe ser muy claro en diferenciar estos dos momentos. 
       .row.justify-content-center.align-items-center
-        .col-md-6.col-10.BGIMG16.mb-md-0.mb-4
+        .col-md-6.col-10.BGIMG16.mb-md-0.mb-4.py-5
           .row.justify-content-center.align-items-end
             .col-12
               h4 Estimación de costos
@@ -273,7 +273,7 @@
         .col-md-4.col-8.mb-md-0.mb-4
           figure
             img(src='@/assets/curso/tema4/img18.svg')
-        .col-md-6.col-10.BGIMG17
+        .col-md-5.col-10.BGIMG17.py-5
           .row.justify-content-center.align-items-end
             .col-12
               h4 Plan de acción
